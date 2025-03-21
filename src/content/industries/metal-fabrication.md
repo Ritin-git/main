@@ -12,6 +12,7 @@ layout: industry.njk
 thumbnail: /img/thumbs/hero-metalfabrication.jpg
 image_1: /img/image-1-metalfabrication.jpg
 image_2: /img/image-2-metalfabrication.jpg
+image_3: /media/uploads/duro-dust-3-stone-cutting.jpg
 short_description: Meet your toughest EHS requirements without draining your bottom line.
 secondary_copy: >-
   ### Modular Industrial Air Filtration for Metal Fabrication

@@ -12,6 +12,7 @@ layout: industry.njk
 thumbnail: /img/thumbs/hero-transportation.jpg
 image_1: /img/image-1-transportation.jpg
 image_2: /img/image-2-transportation.jpg
+image_3: /media/uploads/duropure-image-2.jpg
 short_description: Speed up drying times while meeting your safety regulatory requirements.
 secondary_copy: >-
   ### **Modular Fume Extraction Systems For Limited Space**
