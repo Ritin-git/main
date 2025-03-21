@@ -1,0 +1,69 @@
+{% extends "layout.njk" %}{% block body %}
+<div class="container">
+    <div class="blog">
+        <section class="section blog-section {{ image_alignment }}">
+            <article>
+                <h1 class="h3">{{title}}</h1>
+                {{ contents | safe }}
+            </article>
+            {% if cta %}
+                <div class="blog-cta">
+                    <div class="blog-cta-copy">
+                        <h2>{{cta.copy}}</h2>
+                    </div>
+                    <a href="{{cta.url}}" class="cmn-btn button">{{cta.label}} <span class="button__spotlight"></span></a>
+                </div>
+            {% endif %}
+            {%- include 'partials/pagination-blocks.njk' -%}
+        </section>
+        {% include "partials/blog-sidebar.njk" %}
+    </div>
+</div>
+
+{% set grid = collection | getRelatedPosts(collections) %}
+{%- if grid and grid.length -%}
+    <div class="videos-sec cmn-gap blog-detail-pg pb-200">
+        <div class="container">
+            <div class="videos-inr">
+                <div class="sec-head">
+                    <h2>More Posts You Might Like</h2>
+                </div>
+                <br><br>
+                {% set grid = collection | getRelatedPosts(collections) %}
+                {% set gridCssClass = 'grid-3 related-posts' %}
+                {% set cardCssClass = 'simple'%}
+                {% set cardType = 'simple'%}
+                {% include "partials/grid.njk" %}
+            </div>
+        </div>
+    </div>
+{%- endif -%}
+<script type="application/ld+json">
+    { "@context": "http://schema.org", 
+    "@type": "Article",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{siteConfig.siteUrl}}/{{path}}"
+    },
+    "headline": "{{title}}",
+    "image": "{{siteConfig.siteUrl}}/{{img}}",
+    "publisher": {
+        "@type":"Organization",
+        "name" : "{{siteConfig.siteName}}",
+        "logo": {
+        "@type": "ImageObject",
+        "url": "{{siteConfig.siteUrl}}/img/logo.png"
+        }
+    },
+    "author":{
+        "@type":"Organization",
+        "name" : "{{siteConfig.siteName}}"
+    },
+    "url": "{{siteConfig.siteUrl}}/{{path}}",
+    "datePublished": "{{date}}",
+    "dateCreated": "{{date}}",
+    "dateModified": "{{date}}",
+    "articleBody": "{{ contents | escape }}"
+    }
+</script>
+{% endblock %}
