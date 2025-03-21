@@ -41,17 +41,31 @@
 
     <!-- End Of White Paper Details Section -->
 
-        <section class="section lp-top">
-            <div class="grid-2">
-                <div class="lp-content">
-                    {{ contents | safe }}
-                </div> 
-                <div class="form-container" id="form-container">
-                    <div class="form-intro">{{form_intro | md}}</div>
-                    {% include "partials/hubspot-form.njk" %}
+        <!-- White paper Download Section Begin -->
+
+            <div class="white-paper-download-sec pb-200">
+                <div class="container">
+                    <div class="white-paper-download-inr">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="white-paper-download-inr-left">
+                                    <div class="sec-inr-head">
+                                        {{ contents | safe }}
+                                    <a href="#url">Download your free copy of the white paper today to learn how Duroair's technology achieves clean air compliance.</a>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="download-form">
+                                    <h3>{{form_intro | md}}</h3>
+                                    {% include "partials/hubspot-form.njk" %}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </section>
+
+        <!-- End Of White paper Download Section -->
 
 
         {%- include "partials/colophon.njk" -%}
