@@ -31,13 +31,14 @@
 
     {% set totalPages = pagination.pages | length %}
 {% set currentPage = pagination.currentPage or 1 %}
-{% set maxVisible = 3 %} {# Number of pages before/after current page #}
+{% set maxVisible = 2 %} {# Adjust how many pages before/after the current page #}
 
 <div class="custom-blog-page">
-    {# First page #}
+
+    {# First page (always visible) #}
     <a href="/{{ pagination.pages[0].path }}" class="pagination-number {% if currentPage == 1 %}active{% endif %}">1</a>
 
-    {# Show '...' if currentPage is beyond first few pages #}
+    {# Show "..." if currentPage is far from page 1 #}
     {% if currentPage > maxVisible + 2 %}
         <span class="pagination-ellipsis">...</span>
     {% endif %}
@@ -49,15 +50,16 @@
         {% endif %}
     {% endfor %}
 
-    {# Show '...' if not near the last few pages #}
+    {# Show "..." before the last page if needed #}
     {% if currentPage < totalPages - maxVisible - 1 %}
         <span class="pagination-ellipsis">...</span>
     {% endif %}
 
-    {# Last page #}
+    {# Last page (always visible) #}
     {% if totalPages > 1 %}
         <a href="/{{ pagination.pages[totalPages - 1].path }}" class="pagination-number {% if currentPage == totalPages %}active{% endif %}">{{ totalPages }}</a>
     {% endif %}
+
 </div>
 
     {% if pagination.next %}
