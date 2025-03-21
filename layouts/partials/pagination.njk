@@ -29,55 +29,37 @@
     </p>
     {% endif %}
 
-    {# Define variables #}
     {% set totalPages = pagination.pages | length %}
-    {% set currentPage = pagination.currentPage %}
+    {% set currentPage = pagination.currentPage or 1 %}
     {% set range = 3 %} {# Number of visible pages before/after current page #}
 
     <div class="custom-blog-page">
-        {# Always show the first 3 pages #}
-        {% for i in range(1, 4) %}
-            {% if i <= totalPages %}
-                {% if i == currentPage %}
-                    <span class="pagination-number active">{{ i }}</span>
-                {% else %}
-                    <a href="/{{ pagination.pages[i-1].path }}" class="pagination-number">{{ i }}</a>
-                {% endif %}
-            {% endif %}
-        {% endfor %}
+        {# Always show first page #}
+        <a href="/{{ pagination.pages[0].path }}" class="pagination-number {% if currentPage == 1 %}active{% endif %}">1</a>
 
-        {# Show '...' if currentPage is greater than range + 1 #}
-        {% if currentPage > range + 1 %}
+        {# Show '...' if user is beyond the first few pages #}
+        {% if currentPage > range + 2 %}
             <span class="pagination-ellipsis">...</span>
         {% endif %}
 
         {# Show pages around the current page #}
-        {% for i in range(currentPage - 1, currentPage + 2) %}
-            {% if i > 3 and i < totalPages - 2 %}
-                {% if i == currentPage %}
-                    <span class="pagination-number active">{{ i }}</span>
-                {% else %}
-                    <a href="/{{ pagination.pages[i-1].path }}" class="pagination-number">{{ i }}</a>
-                {% endif %}
+        {% for i in range(currentPage - range, currentPage + range) %}
+            {% if i > 1 and i < totalPages %}
+                <a href="/{{ pagination.pages[i-1].path }}" class="pagination-number {% if i == currentPage %}active{% endif %}">{{ i }}</a>
             {% endif %}
         {% endfor %}
 
-        {# Show '...' if currentPage is not near the last pages #}
-        {% if currentPage < totalPages - range %}
+        {# Show '...' before the last few pages #}
+        {% if currentPage < totalPages - range - 1 %}
             <span class="pagination-ellipsis">...</span>
         {% endif %}
 
-        {# Always show the last 3 pages #}
-        {% for i in range(totalPages - 2, totalPages + 1) %}
-            {% if i > 3 %}
-                {% if i == currentPage %}
-                    <span class="pagination-number active">{{ i }}</span>
-                {% else %}
-                    <a href="/{{ pagination.pages[i-1].path }}" class="pagination-number">{{ i }}</a>
-                {% endif %}
-            {% endif %}
-        {% endfor %}
+        {# Always show the last page #}
+        {% if totalPages > 1 %}
+            <a href="/{{ pagination.pages[totalPages - 1].path }}" class="pagination-number {% if currentPage == totalPages %}active{% endif %}">{{ totalPages }}</a>
+        {% endif %}
     </div>
+
 
     {% if pagination.next %}
     <a href="/{{ pagination.next.path }}" class="pagination-next">
