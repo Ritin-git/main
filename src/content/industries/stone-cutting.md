@@ -13,6 +13,7 @@ layout: industry.njk
 thumbnail: /img/thumbs/hero-stonecutting.jpg
 image_1: /img/image-1-stonecutting.jpg
 image_2: /img/image-2-stonecutting.jpg
+image_3: /media/uploads/dur-221410_blog1-img.jpg.jpg
 short_description: Integrate OSHA-compliant dust protection with your existing layout.
 secondary_copy: >-
   ### Modular Industrial Air Filtration for Stone Cutting
