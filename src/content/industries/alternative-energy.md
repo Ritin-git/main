@@ -13,6 +13,7 @@ layout: industry.njk
 thumbnail: /img/thumbs/hero-alternativeenergy.jpg
 image_1: /img/image-1-alternativeenergy.jpg
 image_2: /img/image-2-alternativeenergy.jpg
+image_3: /media/uploads/case-study-detail-img-3.png
 short_description: Shield delicate solar panel processes from air surface contamination.
 secondary_copy: >-
   ### Modular Industrial Air Filtration for Alternative Energy Manufacturing
