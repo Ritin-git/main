@@ -139,10 +139,18 @@
                         <img src="/img/shape-4.png" alt="Texture">
                     </div>
                     <div class="contact-us-inr-wrp">
-                        <div id="contact-us-form" class="form-container narrow">
-                            <h4 class="h3 text-center">{{form_intro}}</h4><br><br>
-                            {%- set redirectUrl = '/contact-us/success/?page=solutions'  -%}
-                            {% include "partials/hubspot-form.njk" %}
+                        <div class="sec-inr-head">
+                            <h2>{{form_intro}}</h2>
+                        </div>
+                        <div class="row">
+                            <div class="col">
+                                <div class="contact-us-right">
+                                    <div id="contact-us-form" class="contact-us-right-inr">
+                                        {%- set redirectUrl = '/contact-us/success/?page=solutions'  -%}
+                                        {% include "partials/hubspot-form.njk" %}
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
