@@ -13,6 +13,7 @@ layout: industry.njk
 thumbnail: /img/thumbs/hero-marine.jpg
 image_1: /img/image-1-marine.jpg
 image_2: /img/image-2-marine.jpg
+image_3: /media/uploads/sandblasting.png
 short_description: Minimize material handling disruptions for finishing and painting.
 secondary_copy: >-
   ### Modular Industrial Air Filter Systems for Marine Manufacturing
