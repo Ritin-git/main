@@ -29,16 +29,37 @@
     </p>
     {% endif %}
 
-    {# Loop through all pages and generate numbered links #}
-    <div class="custom-blog-page">
-    {% for page in pagination.pages %}
-        {% if page.path == pagination.current.path %}
-            <span class="pagination-number active">{{ loop.index }}</span>
-        {% else %}
-            <a href="/{{ page.path }}" class="pagination-number">{{ loop.index }}</a>
+    {% set totalPages = pagination.pages | length %}
+{% set currentPage = pagination.currentPage or 1 %}
+{% set maxVisible = 3 %} {# Number of pages before/after current page #}
+
+<div class="custom-blog-page">
+    {# First page #}
+    <a href="/{{ pagination.pages[0].path }}" class="pagination-number {% if currentPage == 1 %}active{% endif %}">1</a>
+
+    {# Show '...' if currentPage is beyond first few pages #}
+    {% if currentPage > maxVisible + 2 %}
+        <span class="pagination-ellipsis">...</span>
+    {% endif %}
+
+    {# Middle pages dynamically #}
+    {% for i in range(currentPage - maxVisible, currentPage + maxVisible) %}
+        {% if i > 1 and i < totalPages %}
+            <a href="/{{ pagination.pages[i-1].path }}" class="pagination-number {% if i == currentPage %}active{% endif %}">{{ i }}</a>
         {% endif %}
     {% endfor %}
-    </div>
+
+    {# Show '...' if not near the last few pages #}
+    {% if currentPage < totalPages - maxVisible - 1 %}
+        <span class="pagination-ellipsis">...</span>
+    {% endif %}
+
+    {# Last page #}
+    {% if totalPages > 1 %}
+        <a href="/{{ pagination.pages[totalPages - 1].path }}" class="pagination-number {% if currentPage == totalPages %}active{% endif %}">{{ totalPages }}</a>
+    {% endif %}
+</div>
+
     {% if pagination.next %}
     <a href="/{{ pagination.next.path }}" class="pagination-next">
         Next
