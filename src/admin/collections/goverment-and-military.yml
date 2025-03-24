@@ -73,7 +73,7 @@
       widget: object
       fields:
         - {label: Heading, name: cert_head, widget: string}
-        - {label: Description, name: cert_desc, widget: markdown}
+        - {label: Description, name: cert_desc, widget: string}
         - { label: Brochure, name: brochure, widget: file, required: false, allow_multiple: false}
         - {label: Download, name: cert_btn, widget: string}
     - name: compliance
