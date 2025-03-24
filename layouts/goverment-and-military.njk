@@ -92,35 +92,27 @@
                         <h2>Containment + Filtration = MRO Flexibility and Operational Readiness</h2>
                     </div>
                     <div class="mro-inr">
+                        {%- for item in flexibility -%}
                         <div class="mro-content-sec">
                             <div class="mro-content-row row">
                                 <div class="mro-content-left-wrp col-lg-6">
                                     <div class="mro-content-left">
-                                        <h3>Use DuroRoom Containment to:</h3>
+                                        <h3>{{ item.heading }}</h3>
                                         <div class="mro-content">
-                                            <ul>
-                                                <li>Simplify material handling with access to overhead cranes</li>
-                                                <li>Repair components to complete aircraft or ground equipment</li>
-                                                <li>Contain decontamination processes and NDT</li>
-                                                <li>Maximize floor space. It retracts to 20% of its extended length</li>
-                                                <li>Customize with retractable sizes up to 50'H x 65'W in any length</li>
-                                                <li>Customize as a fixed system up to 50'H x 150'W in any length</li>
-                                                <li>Simplify workflows and save valuable hours</li>
-                                                <li>Multiply productivity in shared larger spaces by creating contained work cells</li>
-                                                <li>Create Plug-and-Play transition rooms (i.e., anterooms or gowning rooms)</li>
-                                            </ul>
+                                            {{ item.description | md }}
                                         </div>
                                     </div>
                                 </div>
                                 <div class="mro-content-right-wrp col-lg-6">
                                     <div class="mro-content-right">
                                         <div class="mro-content-rt-img">
-                                            <img src="./images/duroroom-containment-img.png" alt="Image">
+                                            <img src="{{ item.image }}" alt="Image">
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
+                        {%- endfor -%}
                     </div>
                 </div>
             </div>
