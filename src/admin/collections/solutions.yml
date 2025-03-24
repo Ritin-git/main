@@ -35,8 +35,8 @@
       label: Government 7 military Data
       widget: "object"
       fields:
-        - {label: "Show Data", name: "show_data", widget: markdown}
-        - {label: "Hide Data", name: "hide_data", widget: markdown}
+        - {label: "Show Data", name: "show_data", widget: markdown, required: false}
+        - {label: "Hide Data", name: "hide_data", widget: markdown, required: false}
     
     <!-- @include-static ../partials/testimonial.yml -->
     - { label: "Form Intro", name: "form_intro", widget: "markdown" }
