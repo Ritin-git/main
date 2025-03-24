@@ -208,6 +208,13 @@ dod_section:
       btn: Read More
 solution_section:
   solution_haed: Specialized Solutions for Your MRO Needs
+  related_products:
+    - DuroRoom™
+    - DuroPure™
+    - DuroDeployable™
+    - DuroCap™
+    - DuroDust™
+    - DuroClean™
 certificate_section:
   cert_btn: Download
   cert_head: Certifications
