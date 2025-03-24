@@ -47,5 +47,11 @@
         - {label: Code, name: code, widget: string}
         - {label: Description, name: description, widget: text}
     - {label: "Related Solutions", name: "related_solutions", widget: "relation", multiple: true, collection: "solution", search_fields: ["title"], value_field: "title", "hint":"Begin typing to select a related product ", required: false}
+    - name: g&m_related_data
+      label: Government 7 military Data
+      widget: "object"
+      fields:
+        - {label: "Show Data", name: "show_data", widget: markdown, required: false}
+        - {label: "Hide Data", name: "hide_data", widget: markdown, required: false}
     - { label: Brochure, name: brochure, widget: file, required: false, allow_multiple: false}
     - {label: "Download Button Label", name: "btn_label", widget: "string", default: "Download Brochure", required: false,}
