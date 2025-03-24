@@ -67,6 +67,14 @@
           fields:
             - {label: Heading, name: child_head, widget: string}
             - {label: Description, name: child_desc, widget: markdown}
+
+    - name: certificate_section
+      label: Certificate Section
+      widget: object
+      fields:
+        - {label: Heading, name: cert_head, widget: string}
+        - {label: Description, name: cert_desc, widget: markdown}
+        - {label: Download, name: cert_btn, widget: string}
     - name: compliance
       label: Compliance
       widget: list
