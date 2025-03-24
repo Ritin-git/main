@@ -30,6 +30,14 @@
         - {label: Code, name: code, widget: string}
         - {label: Description, name: description, widget: string}
     - {label: "Related Products", name: "related_products", widget: "relation", multiple: true, collection: "product", search_fields: ["title"], value_field: "title", "hint":"Begin typing to select a related solution ", required: false}
+    
+    - name: g&m_related_data
+      label: Government 7 military Data
+      widget: "object"
+      fields:
+        - {label: "Show Data", name: "show_data", widget: markdown}
+        - {label: "Hide Data", name: "hide_data", widget: markdown}
+    
     <!-- @include-static ../partials/testimonial.yml -->
     - { label: "Form Intro", name: "form_intro", widget: "markdown" }
     - { label: "Hubspot Form ID", name: "hubspot_form_id", widget: "string", required: true, default: "8a7e8410-f0e6-4fdf-9fe9-60dfeb51b9b4" }
