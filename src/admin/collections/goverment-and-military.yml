@@ -51,7 +51,7 @@
       label: Solution Section
       widget: object
       fields:
-        - {label: Heading, name: code, widget: string}
+        - {label: Heading, name: solution_haed, widget: string}
         - {label: "Related Solutions", name: "related_solutions", widget: "relation", multiple: true, collection: "solution", search_fields: ["title"], value_field: "title", "hint":"Begin typing to select a related solution ", required: false}
 
     - name: top_10_section
