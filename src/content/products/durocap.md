@@ -63,6 +63,19 @@ key_images:
   image_2: /media/uploads/DUR-201314-thumb.jpg
   image_3: /media/uploads/AZZ-enclosure-with-use-of-crane.jpg
   image_4: /media/uploads/airplane.jpg
+image_2: /media/uploads/image-29.png
+related_solutions:
+  - Non-Destructive Testing
+  - Painting & Coating
+  - Clean Rooms
+  - Dust Collection
+product-intro:
+  heading: Clean Shop Air for the Entire Floor
+  description: Welding toxic fumes and laser-cutting dust can threaten employee
+    safety, derail productivity, and place you directly in the crosshairs of the
+    EPA. Just a single spark can ignite welding “smoke” and endanger your entire
+    shop floor. Welding contaminants can also reduce the life of your cooling
+    fans and valuable CNC machinery.
 key_features: >-
   * **Easy Assembly**: Comes fully assembled with a pre-wired control panel
   (lockable fused disconnect and C/UL/US Listed). Combined with a DuroRoom, the
@@ -77,7 +90,6 @@ key_features: >-
   * **Variable Frequency Drive**: Energy-efficient VFD with adjustable air speeds, doubles as a soft starter to eliminate the need for a motor starter.
 
   * **Fire Suppression**: Designed by Kidde Badger for protection of exhaust systems and the enclosure, while meeting NFPA 17 standards and is UL listed. Wet or dry systems are available depending upon requirements. Wet systems are for non-retracting only.
-image_2: /media/uploads/image-29.png
 compliance:
   - code: NFPA 33
     description: spray application
@@ -101,18 +113,26 @@ compliance:
     description: spray finishing requirements - Electrical CSA Certified
   - code: OSHA silica
     description: standard for general industry
-related_solutions:
-  - Non-Destructive Testing
-  - Painting & Coating
-  - Clean Rooms
-  - Dust Collection
-product-intro:
-  heading: Clean Shop Air for the Entire Floor
-  description: Welding toxic fumes and laser-cutting dust can threaten employee
-    safety, derail productivity, and place you directly in the crosshairs of the
-    EPA. Just a single spark can ignite welding “smoke” and endanger your entire
-    shop floor. Welding contaminants can also reduce the life of your cooling
-    fans and valuable CNC machinery.
+g&m_related_data:
+  show_data: DuroCap™ pairs with DuroRoom to create a clean air envelope around
+    workpieces for a contaminant-free retractable workstation.
+  hide_data: >-
+    DuroRooms isolate and contain a hazard created during a manufacturing and
+    maintenance process or protect a process from external contamination. All
+    systems are custom-designed to a customer’s requirements including:
+
+
+    * H’ x W’ x L’
+
+    * Temperature and humidity
+
+    * Lighting foot-candle/lumens
+
+    * Filtration requirement
+
+    * Positive, negative, or neutral pressure
+
+    * Fire suppression requirements
 btn_label: Download Fact Sheet
 technical_specifications: >-
   * Single phase 220V and three phase 208/230/460/575V available upon request.
