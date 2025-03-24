@@ -6,39 +6,67 @@
     <!-- @include-static ../partials/base-fields.yml -->
     <!-- @include-static ../partials/jumbotron.yml -->
     <!-- @include-static ../partials/nav-fields.yml -->
+
+    - {label: Main Heading, name: main_head, widget: string}
+
     - name: gm_intro
       label: Goverment and Military Intro
       widget: object
       fields:
+        - {label: Intro Heading, name: intro_desc, widget: string}
+        - {label: Intro Description, name: intro_desc, widget: markdown}
+        - {label: Intro Image, name: intro_image, widget: image}
+
+    - name: dod_section
+      label: DOD Maintenance Section
+      widget: object
+      fields:
+        - name: child_left_sec
+          label: Child Left Section
+          widget: object
+          fields:
+            - {label: Heading, name: code, widget: string}
+            - {label: Description, name: description, widget: markdown}
+        - name: child_center_sec
+          label: Child Center Section
+          widget: object
+          fields:
+            - {label: Heading, name: code, widget: string}
+            - {label: Description, name: description, widget: markdown}
+        - name: child_right_sec
+          label: Child Right Section
+          widget: list
+          fields:
+            - {label: Heading, name: code, widget: string}
+            - {label: Button, name: btn, widget: string}
+
+    - name: flexibility
+      label: MRO Flexibility Section
+      widget: list
+      fields:
+            - {label: Heading, name: heading, widget: string}  
+            - {label: Description, name: description, widget: markdown}
+            - {label: image, name: image, widget: string}
+    - name: solution_section
+      label: Solution Section
+      widget: object
+      fields:
         - {label: Heading, name: code, widget: string}
-        - {label: Description, name: description, widget: markdown}
-        - {label: Image 1, name: image_1, widget: image}
-        - {label: Image 2, name: image_2, widget: image}
-        - {label: Image 3, name: image_3, widget: image}
-    - name: section_1
-      label: Section 1
+        - {label: "Related Solutions", name: "related_solutions", widget: "relation", multiple: true, collection: "solution", search_fields: ["title"], value_field: "title", "hint":"Begin typing to select a related solution ", required: false}
+
+    - name: top_10_section
+      label: TOP 10 Section
       widget: object
       fields:
         - {label: Heading, name: code, widget: string}
         - {label: Description, name: description, widget: markdown}
-        - {label: Image 1, name: image_1, widget: image}
-    - name: section_2
-      label: Section 2
-      widget: object
-      fields:
-        - {label: Heading, name: code, widget: string}
-        - {label: Description, name: description, widget: markdown}
-        - {label: Image 1, name: image_1, widget: image}
-        - {label: Image 2, name: image_2, widget: image}
-    - {label: "Related Solutions", name: "related_solutions", widget: "relation", multiple: true, collection: "solution", search_fields: ["title"], value_field: "title", "hint":"Begin typing to select a related solution ", required: false}
-    - {label: "Permalink", name: "permalink", widget: "string", required: false}
-    - {label: "Thumbnail", name: "thumbnail", widget: "image", required: true}
-    - {label: "Page Image 1", name: "image_1", widget: "image", required: false}
-    - {label: "Page Image 2", name: "image_2", widget: "image", required: false}
-    - {label: "Page Image 3", name: "image_3", widget: "image", required: false}
-    - {label: "Short Description", name: "short_description", widget: "text", 'hint':'shows on cards and summaries'}
-    - {label: "Copy Block 1", name: "copy_block_1", widget: "markdown", required: false}
-    - {label: "Copy Block 2", name: "copy_block_2", widget: "markdown", 'hint': 'technical specs, etc.', required: false}
+        - {label: image, name: image, widget: string}
+        - name: top_10_child
+          label: Top 10 Child
+          widget: list
+          fields:
+            - {label: Heading, name: code, widget: string}
+            - {label: Description, name: description, widget: markdown}
     - name: compliance
       label: Compliance
       widget: list
