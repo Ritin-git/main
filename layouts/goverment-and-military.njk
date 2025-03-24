@@ -175,29 +175,19 @@
                         <div class="col-lg-6 reasone-left-wrp">
                             <div class="reasone-left">
                                 <div class="reasons-accrdn">
-                                    <div class="reasons-accrdn-card active">
+                                {%- for item in top_10_section.top_10_child -%}
+                                    <div class="reasons-accrdn-card {% if loop.first %}active{% endif %}">
                                         <div class="reasonsaccr-head">
-                                            <h3>Increases Readiness</h3>
+                                            <h3>{{ item.child_head | md }}</h3>
                                             <div class="chevron">
                                                 <i class="fal fa-chevron-down"></i>
                                             </div>
                                         </div>
                                         <div class="reasonsaccr-body">
-                                            <p>Our systems are deployable capital equipment. They can be designed to be compatible with Deployable Rapid Assembly Shelters currently in use by the military. The system is plug and play and can be deployed where needed.</p>
+                                            <p>{{ item.child_desc | md }}</p>
                                         </div>
                                     </div>
-                                    
-                                    <div class="reasons-accrdn-card">
-                                        <div class="reasonsaccr-head">
-                                            <h3>Protection of Service Members</h3>
-                                            <div class="chevron">
-                                                <i class="fal fa-chevron-down"></i>
-                                            </div>
-                                        </div>
-                                        <div class="reasonsaccr-body">
-                                            <p>Our systems are deployable capital equipment. They can be designed to be compatible with Deployable Rapid Assembly Shelters currently in use by the military. The system is plug and play and can be deployed where needed.</p>
-                                        </div>
-                                    </div>
+                                {%- endfor -%}
                                 </div>
                             </div>
                         </div>
