@@ -208,8 +208,15 @@ dod_section:
       btn: Read More
 solution_section:
   solution_haed: Specialized Solutions for Your MRO Needs
+  related_products:
+    - DuroRoom™
+    - DuroPure™
+    - DuroDeployable™
+    - DuroCap™
+    - DuroDust™
+    - DuroClean™
 certificate_section:
-  cert_btn: Download
+  cert_btn: Download Now
   cert_head: Certifications
   cert_desc: "### Duroair’s certified clean air solutions ensure compliance,
     safety, and efficiency in industrial environments."
