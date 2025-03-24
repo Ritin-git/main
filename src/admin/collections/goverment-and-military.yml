@@ -13,7 +13,7 @@
       label: Goverment and Military Intro
       widget: object
       fields:
-        - {label: Intro Heading, name: intro_desc, widget: string}
+        - {label: Intro Heading, name: intro_head, widget: string}
         - {label: Intro Description, name: intro_desc, widget: markdown}
         - {label: Intro Image, name: intro_image, widget: image}
 
