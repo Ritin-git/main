@@ -216,7 +216,7 @@ solution_section:
     - DuroDust™
     - DuroClean™
 certificate_section:
-  cert_btn: Download
+  cert_btn: Download Now
   cert_head: Certifications
   cert_desc: "### Duroair’s certified clean air solutions ensure compliance,
     safety, and efficiency in industrial environments."
