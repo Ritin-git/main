@@ -120,43 +120,41 @@
 
     <!-- End Of MRO Section -->
 
-    <!-- Mro Needs Section Begin -->
+    <!-- Mro Needs Section Begin -->solution_section
 
         <div class="mro-needs-sec">
             <div class="container">
                 <div class="mro-needs-inr">
                     <div class="sec-inr-head">
-                        <h2>Specialized Solutions for Your MRO Needs</h2>
+                        <h2>{{ solution_section.solution_haed }}</h2>
                     </div>
 
                     <div class="mro-needs-cards">
+                    {%- for p in related_products -%}
+                    {%- set item = p | findByField('title', products) -%}
+                    {%- if item and item.title and item.thumbnail -%}
                         <div class="mro-needs-card">
                             <div class="mro-need-card-left">
                                 <div class="mrond-card-img">
-                                    <img src="./images/mro-need-img.png" alt="Mro Need Image">
+                                    <img src="{{ item.thumbnail }}" alt="Mro Need Image">
                                 </div>
                             </div>
                             <div class="mro-need-right">
                                 <div class="mro-need-right-head">
-                                    <h3>DuroRoom</h3>
-                                    <p>Use DuroRoom for dust control, coating, clean rooms, isolation rooms, anterooms or gowning rooms, and non-destructive testing environments.</p>
+                                    <h3>{{ item.title }}</h3>
+                                    {{ item.g&m_related_data.show_data | md }}
                                     <a href="javascript:void(0)" class="read-btn">Read more <img src="./images/btn-arrow.svg" alt="Icon"></a>
                                 </div>
                                 <div class="mro-need-right-content">
                                     <p>DuroRooms isolate and contain a hazard created during a manufacturing and maintenance process or protect a process from external contamination. All systems are custom-designed to a customer’s requirements including:</p>
                                     <div class="mro-need-content-list">
-                                        <ul>
-                                            <li>H’ x W’ x L’</li>
-                                            <li>Temperature and humidity</li>
-                                            <li>Lighting foot-candle/lumens</li>
-                                            <li>Filtration requirement</li>
-                                            <li>Positive, negative, or neutral pressure</li>
-                                            <li>Fire suppression requirements</li>
-                                        </ul>
+                                        {{ item.g&m_related_data.hide_data | md }}
                                     </div>
                                 </div>
                             </div>
                         </div>
+                    {%- endif -%}
+                    {%- endfor -%}
                     </div>
                 </div>
             </div>
