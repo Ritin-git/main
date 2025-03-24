@@ -69,7 +69,7 @@ flexibility:
       * Multiply productivity in shared larger spaces by creating contained work cells
 
       * Create Plug-and-Play transition rooms (i.e., anterooms or gowning rooms)
-    image: dummy
+    image: /media/uploads/duroroom-containment-img.png
   - heading: "Combine with DuroPure Filtration for:"
     description: >-
       * Recirculating, non-vented, six-stage filtration.
@@ -91,7 +91,7 @@ flexibility:
       * DCPH-A tested, confirmed, and verified.
 
       * Each system is monitored.
-    image: dummy
+    image: /media/uploads/duropure-filtration.png
 top_10_section:
   sec_heading: TOP 10 Ways Duroair Supports Mission-Critical Readiness for Military Bases
   sec_description: Between manufacturing, MRO, and prototyping, you don’t have
@@ -101,7 +101,7 @@ top_10_section:
     flexibility, and reliability required of your people and mission-critical
     equipment. Here are 10 ways Duroair supports mission readiness with portable
     containment and industrial air filtration systems.
-  image: dummy
+  image: /media/uploads/durocap-feature-img-2.png
   top_10_child:
     - child_head: Increases Readiness
       child_desc: Our systems are deployable capital equipment. They can be designed
@@ -176,17 +176,6 @@ solutions_for_industry:
   - Dust Collection
   - Non-Destructive Testing
 nav_sort: 3000
-testimonial:
-  related_products:
-    - DuroCap™
-    - DuroCollector™
-    - DuroClean™
-    - DuroDust™
-    - DuroPure™
-    - DuroRoom™
-    - DuroTower™
-    - OMW
-    - Taper Draft Airflow Technology
 dod_section:
   child_left_sec:
     dod_left_head: Designed Around DOD Maintenance Requirements for Cost,
@@ -219,6 +208,22 @@ dod_section:
       btn: Read More
 solution_section:
   solution_haed: Specialized Solutions for Your MRO Needs
+certificate_section:
+  cert_btn: Download
+  cert_head: Certifications
+  cert_desc: "### Duroair’s certified clean air solutions ensure compliance,
+    safety, and efficiency in industrial environments."
+testimonial:
+  related_products:
+    - DuroCap™
+    - DuroCollector™
+    - DuroClean™
+    - DuroDust™
+    - DuroPure™
+    - DuroRoom™
+    - DuroTower™
+    - OMW
+    - Taper Draft Airflow Technology
 ---
 ### Engineered Clean Air Solutions to Keep You On Schedule
 

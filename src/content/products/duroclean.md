@@ -1,20 +1,17 @@
 ---
 title: DuroClean™
-nav_title: DuroClean
 seo:
-  description: 
-  page_title: 
+  ? description
+  ? page_title
 layout: product.njk
-show_in_menu: "true"
-image_1: /media/uploads/DuroClean 1.jpeg
-image_2: /media/uploads/duroclean-1.jpg
-brochure: /media/uploads/Duroair DuroClean™ System.pdf
 product_image: /media/uploads/duro-clean-2.jpg
 thumbnail: /media/uploads/DuroClean 1.jpeg
-btn_label: "DOWNLOAD FACT SHEET"
+image_1: /media/uploads/DuroClean 1.jpeg
 key_features: >-
-  * **Negative & Positive Pressure Capability**: Isolates hazardous processes or protects a process within a larger manufacturing facility for a safe, controlled environment.
-  
+  * **Negative & Positive Pressure Capability**: Isolates hazardous processes or
+  protects a process within a larger manufacturing facility for a safe,
+  controlled environment.
+
   * **Neutral Pressure Capability**: for simple containment.  
 
   * **HEPA Filter Configurations**: Options include single pass and recirculating designs, with options for cooling and heating and dehumidification.
@@ -24,16 +21,43 @@ key_features: >-
   * **Airflow Options**:   Laminar or unidirectional airflow systems, as well as turbulent or non-unidirectional airflow systems.
 
   * **Air Changes Per Hour (ACH)**: Combines air changes per hour (ACH) with filtered air circulating into the cleanroom many times per hour (designed to meet ISO classifications).
+image_2: /media/uploads/duroclean-1.jpg
+g&m_related_data:
+  show_data: Pair DuroClean™ with DuroRoom for on-demand clean rooms and isolation
+    rooms whenever and wherever needed.
+  hide_data: >-
+    DuroRooms isolate and contain a hazard created during a manufacturing and
+    maintenance process or protect a process from external contamination. All
+    systems are custom-designed to a customer’s requirements including:
+
+
+    * H’ x W’ x L’
+
+    * Temperature and humidity
+
+    * Lighting foot-candle/lumens
+
+    * Filtration requirement
+
+    * Positive, negative, or neutral pressure
+
+    * Fire suppression requirements
+brochure: /media/uploads/Duroair DuroClean™ System.pdf
+btn_label: DOWNLOAD FACT SHEET
 technical_specifications: >-
-  * Fans designed with reverse, incline fan wheels and inlet cones. Non-sparking constructed with fan sizes from 18" to 35" with 5hp to 25hp motors dependent on airflow requirements. Airflow designed at 3.5" static pressure.
+  * Fans designed with reverse, incline fan wheels and inlet cones. Non-sparking
+  constructed with fan sizes from 18" to 35" with 5hp to 25hp motors dependent
+  on airflow requirements. Airflow designed at 3.5" static pressure.
 
   * Variable frequency drive (VF) gives complete control of airflow and doubles as a soft starter to eliminate the need for a motor starter.
 
   * Control panel is a lockable fused disconnect and is a C/UL/US listed panel, with an on/off, speed dial control. Prewired. Options include a customized HMI interface. Customer supplies building power.  
-  
+
   * Lighting options include C1D1, C1D2, LED lights and troffer lights, depending upon requirements.
 
   * Fire suppression: Wet or dry is available depending upon requirements. Wet for non-retracting only.
+show_in_menu: "true"
+nav_title: DuroClean
 ---
 ### How It Works
 
