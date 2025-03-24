@@ -44,8 +44,8 @@
                         <div class="col-lg-5 dod-left-wrp">
                             <div class="dod-left">
                                 <div class="sec-inr-head">
-                                    <h2>Designed Around DOD Maintenance Requirements for Cost, Operational Readiness, and Safety</h2>
-                                    <p>Our modular, industrial air filtration systems bring clean air to each rapid-moving, military manufacturing operation. For example, our retractable DuroRoom™ combined with our DuroPure™ non-vented air filtration easily moves with grinding, painting, or sanding assignments. Each system can be engineered to accommodate large components for jets, MRAPs, or submarines, creating a cost-effective alternative to conventional systems.</p>
+                                    <h2>{{ dod_section.child_left_sec.dod_left_head }}</h2>
+                                    <p>{{ dod_section.child_left_sec.dod_desc | md }}</p>
                                 </div>
                             </div>
                         </div>
@@ -54,38 +54,25 @@
                                 <div class="dod-card-wrp">
                                     <div class="dod-card">
                                         <div class="dod-card-head">
-                                            <h3>Ensure Service Member Health & Safety</h3>
+                                            <h3>{{ dod_section.child_center_sec.dod_center_head }}</h3>
                                         </div>
                                         <div class="dod-card-body">
-                                            <ul>
-                                                <li>Protection is tested, verified, and confirmed by the DCPH-A.</li>
-                                                <li>Mitigate exposure to hexavalent chromium, isocyanates, heavy metals, and VOCs. Meets the HQDA mandate.</li>
-                                                <li>Isolate toxic processes from other service members in a shared space.</li>
-                                                <li>Systems meet CFM requirements. VFD allows for control of airflow. Airflow is 100 FPM. At these air speeds the requirement for less than 25% LEL is met.</li>
-                                                <li>Each system is monitored to verify OSHA limits are maintained.</li>
-                                                <li>OSHA, ACGIH, NFPA Compliant.</li>
-                                            </ul>
+                                            {{ dod_section.child_center_sec.description | md }}
                                         </div>
                                     </div>
                                 </div>
 
                                 <div class="dod-small-cards-wrp">
+                                {% for itmem in child_right_sec}
                                     <div class="dod-sm-card">
                                         <div class="dod-sm-card-head">
-                                            <h3>Reduce Maintenance Costs</h3>
+                                            <h3>{{ itmem.dod_right_head }}</h3>
                                         </div>
                                         <div class="dod-sm-card-btn">
-                                            <a href="#url">Read more <img src="./images/btn-arrow.svg" alt="Arrow Icon"></a>
+                                            <a href="#url">{{ itmem.btn }}<img src="/img/btn-arrow.svg" alt="Arrow Icon"></a>
                                         </div>
                                     </div>
-                                    <div class="dod-sm-card">
-                                        <div class="dod-sm-card-head">
-                                            <h3>Increase Operational Readiness</h3>
-                                        </div>
-                                        <div class="dod-sm-card-btn">
-                                            <a href="#url">Read more <img src="./images/btn-arrow.svg" alt="Arrow Icon"></a>
-                                        </div>
-                                    </div>
+                                {%- endfor -%}
                                 </div>
                             </div>
                         </div>
