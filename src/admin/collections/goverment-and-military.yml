@@ -25,8 +25,8 @@
           label: Child Left Section
           widget: object
           fields:
-            - {label: Heading, name: code, widget: string}
-            - {label: Description, name: description, widget: markdown}
+            - {label: Heading, name: dod_head, widget: string}
+            - {label: Description, name: dod_desc, widget: markdown}
         - name: child_center_sec
           label: Child Center Section
           widget: object
