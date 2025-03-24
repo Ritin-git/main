@@ -23,4 +23,4 @@
     - {label: "Solutions for Your Industry", name: "solutions_for_industry", widget: "relation", collection: "solution", search_fields: ["title"], value_field: "title", "hint":"Begin typing to select a solution", required: false, multiple: true}
     <!-- @include-static ../partials/testimonial.yml -->
         - {label: "Related Products", name: "related_products", widget: "relation", multiple: true, collection: "product", search_fields: ["title"], value_field: "title", "hint":"Begin typing to select a related solution ", required: false}
-    <!-- @include-static ../partials/cta-callout.yml -->
+    <!-- @include-static ../partials/cta-callout.yml --> 
