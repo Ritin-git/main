@@ -58,15 +58,15 @@
       label: TOP 10 Section
       widget: object
       fields:
-        - {label: Heading, name: code, widget: string}
+        - {label: Heading, name: heading, widget: string}
         - {label: Description, name: description, widget: markdown}
         - {label: image, name: image, widget: string}
         - name: top_10_child
           label: Top 10 Child
           widget: list
           fields:
-            - {label: Heading, name: code, widget: string}
-            - {label: Description, name: description, widget: markdown}
+            - {label: Heading, name: head, widget: string}
+            - {label: Description, name: desc, widget: markdown}
     - name: compliance
       label: Compliance
       widget: list
