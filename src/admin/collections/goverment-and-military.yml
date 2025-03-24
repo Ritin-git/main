@@ -74,6 +74,7 @@
       fields:
         - {label: Heading, name: cert_head, widget: string}
         - {label: Description, name: cert_desc, widget: markdown}
+        - { label: Brochure, name: brochure, widget: file, required: false, allow_multiple: false}
         - {label: Download, name: cert_btn, widget: string}
     - name: compliance
       label: Compliance
