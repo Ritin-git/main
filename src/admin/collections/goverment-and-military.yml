@@ -46,7 +46,7 @@
       fields:
             - {label: Heading, name: heading, widget: string}  
             - {label: Description, name: description, widget: markdown}
-            - {label: image, name: image, widget: string}
+            - {label: image, name: image, widget: image}
     - name: solution_section
       label: Solution Section
       widget: object
@@ -60,7 +60,7 @@
       fields:
         - {label: Heading, name: sec_heading, widget: string}
         - {label: Description, name: sec_description, widget: markdown}
-        - {label: image, name: image, widget: string}
+        - {label: image, name: image, widget: image}
         - name: top_10_child
           label: Top 10 Child
           widget: list
