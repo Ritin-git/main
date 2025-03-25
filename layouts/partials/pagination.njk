@@ -29,17 +29,16 @@
     </p>
     {% endif %}
 
+    {# Loop through all pages and generate numbered links #} 
     <div class="custom-blog-page">
     {% for page in pagination.pages %}
-        {% set isActive = (page.path == pagination.current.path) %}
-        {{ page.path }} == {{ pagination.current.path }} <!-- Debugging output -->
-        {% if isActive %}
+        {% if page.path == pagination.current.path %}
             <span class="pagination-number active">{{ loop.index }}</span>
         {% else %}
             <a href="/{{ page.path }}" class="pagination-number">{{ loop.index }}</a>
         {% endif %}
     {% endfor %}
-</div>
+    </div>
 
     {% if pagination.next %}
     <a href="/{{ pagination.next.path }}" class="pagination-next">
