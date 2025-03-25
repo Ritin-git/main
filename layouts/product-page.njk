@@ -38,69 +38,73 @@
 
 
     <!-- Reasons Section Begin -->
-        <div class="reasons-sec cmn-gap">
-            <div class="container">
-                <div class="reasons-inr">
-                    <div class="row">
-                        <!-- Left Section: Accordion -->
-                        <div class="col-lg-6 reasone-left-wrp">
-                            <div class="sec-inr-head">
-                                <h2>8 Reasons WHY Customers Choose Duroair</h2>
+<div class="reasons-sec cmn-gap">
+    <div class="container">
+        <div class="reasons-inr">
+            <div class="row">
+                <!-- Left Section: Accordion -->
+                <div class="col-lg-6 reasone-left-wrp">
+                    <div class="sec-inr-head">
+                        <h2>8 Reasons WHY Customers Choose Duroair</h2>
+                    </div>
+                    <div class="reasone-left">
+                        <div class="reasons-accrdn">
+                            {%- for item in choose_duroair -%}
+                            <div class="reasons-accrdn-card {% if loop.first %}active{% endif %}" data-index="{{ loop.index }}">
+                                <div class="reasonsaccr-head">
+                                    <h3>{{ item.heading_1 }}</h3>
+                                    <div class="chevron">
+                                        <i class="fal fa-chevron-down"></i>
+                                    </div>
+                                </div>
+                                <div class="reasonsaccr-body">
+                                    <p>{{ item.description_1 | md }}</p>
+                                </div>
                             </div>
-                            <div class="reasone-left">
-                                <div class="reasons-accrdn">
+                            {%- endfor -%}
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Right Section: Image Slider -->
+                <div class="col-lg-6 reasone-right-wrp">
+                    <div class="reasone-right">
+                        <div class="reasonert-navfor-slider-wrp">
+                            <div class="reasonert-navfor-slider">
+                                {%- for item in choose_duroair -%}
+                                <div class="reasonert-navfor-slider-inr-item {% if loop.first %}active{% endif %}" data-index="{{ loop.index }}">
+                                    <div class="reasonert-navfor-slider-inr-item-img">
+                                        <img src="{{ item.image }}" alt="{{ item.heading_1 }}">
+                                    </div>
+                                </div>
+                                {%- endfor -%}
+                            </div>
+                        </div>
+
+                        <!-- Small Images (Navigation Thumbnails) -->
+                        <div class="reason-slider-nav-container">
+                            <button class="reason-nav-btn left" onclick="slideThumbnails('left')">‹</button>
+                            <div class="reason-slider-nav">
+                                <div class="reason-slider-nav-wrapper">
                                     {%- for item in choose_duroair -%}
-                                    <div class="reasons-accrdn-card {% if loop.first %}active{% endif %}" data-index="{{ loop.index }}">
-                                        <div class="reasonsaccr-head">
-                                            <h3>{{ item.heading_1 }}</h3>
-                                            <div class="chevron">
-                                                <i class="fal fa-chevron-down"></i>
-                                            </div>
-                                        </div>
-                                        <div class="reasonsaccr-body">
-                                            <p>{{ item.description_1 | md }}</p>
+                                    <div class="reason-slider-nav-item {% if loop.first %}active{% endif %}" data-index="{{ loop.index }}">
+                                        <div class="reason-slider-nav-item-img">
+                                            <img src="{{ item.image }}" alt="{{ item.heading_1 }} Thumbnail">
                                         </div>
                                     </div>
                                     {%- endfor -%}
                                 </div>
                             </div>
-                        </div>
-
-                        <!-- Right Section: Image Slider -->
-                        <div class="col-lg-6 reasone-right-wrp">
-                            <div class="reasone-right">
-                                <div class="reasonert-navfor-slider-wrp">
-                                    <div class="reasonert-navfor-slider">
-                                        {%- for item in choose_duroair -%}
-                                        <div class="reasonert-navfor-slider-inr-item {% if loop.first %}active{% endif %}" data-index="{{ loop.index }}">
-                                            <div class="reasonert-navfor-slider-inr-item-img">
-                                                <img src="{{ item.image }}" alt="{{ item.heading_1 }}">
-                                            </div>
-                                        </div>
-                                        {%- endfor -%}
-                                    </div>
-                                </div>
-
-                                <!-- Small Images (Navigation Thumbnails) -->
-                                <div class="reason-slider-nav">
-                                    <div class="reason-slider-nav-wrapper">
-                                        {%- for item in choose_duroair -%}
-                                        <div class="reason-slider-nav-item {% if loop.first %}active{% endif %}" data-index="{{ loop.index }}">
-                                            <div class="reason-slider-nav-item-img">
-                                                <img src="{{ item.image }}" alt="{{ item.heading_1 }} Thumbnail">
-                                            </div>
-                                        </div>
-                                        {%- endfor -%}
-                                    </div>
-                                </div>
-
-                            </div>
+                            <button class="reason-nav-btn right" onclick="slideThumbnails('right')">›</button>
                         </div>
 
                     </div>
                 </div>
+
             </div>
         </div>
+    </div>
+</div>
 <!-- End Of Reasons Section -->
 
 
