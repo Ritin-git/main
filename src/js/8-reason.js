@@ -4,11 +4,17 @@ document.addEventListener("DOMContentLoaded", function () {
     let navItems = document.querySelectorAll(".reason-slider-nav-item");
 
     function activateItem(index) {
-        accordionItems.forEach((el) => el.classList.remove("active"));
+        // Remove "active" class from all items
+        accordionItems.forEach((el) => {
+            el.classList.remove("active");
+            el.querySelector(".reasonsaccr-body").style.display = "none"; // Hide content
+        });
         sliderItems.forEach((el) => el.classList.remove("active"));
         navItems.forEach((el) => el.classList.remove("active"));
 
+        // Add "active" class to the clicked index
         accordionItems[index].classList.add("active");
+        accordionItems[index].querySelector(".reasonsaccr-body").style.display = "block"; // Show content
         sliderItems[index].classList.add("active");
         navItems[index].classList.add("active");
     }
@@ -22,5 +28,4 @@ document.addEventListener("DOMContentLoaded", function () {
     navItems.forEach((item, index) => {
         item.addEventListener("click", () => activateItem(index));
     });
-
 });
