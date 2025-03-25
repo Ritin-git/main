@@ -48,23 +48,28 @@ techncal_specification:
 
     * System exhausts air to the exterior and requires ducting and make-up air.
 new_key_features:
-  - description: DuroCap™ vented filtration creates a clean air chamber nearly 100%
-      free from dangerous particulates and corrosive dust contaminants.
+  - description: Comes fully assembled with a pre-wired control panel (lockable
+      fused disconnect and C/UL/US Listed). Combined with a DuroRoom, the system
+      depending upon size, can be installed in two to three days with a small
+      crew.
     heading: Easy Assembly
-  - description: DuroCap™ vented filtration creates a clean air chamber nearly 100%
-      free from dangerous particulates and corrosive dust contaminants.
+  - description: Directs air down the center of the enclosure to maximize control of
+      overspray, keep the sidewalls clean, and speed drying time.
     heading: Taper Draft Airflow Technology
-  - description: DuroCap™ vented filtration creates a clean air chamber nearly 100%
-      free from dangerous particulates and corrosive dust contaminants.
+  - description: Engineered airflow requirements from 13,500 CFM to 120,000 CFM and
+      beyond, to achieve airflow over 100 FPM at the intake filter face and
+      ensure airflow remains below code requirements of 25% of the LEL (lower
+      explosion limit).
     heading: Meets/Exceeds CFM Requirements
-  - description: DuroCap™ vented filtration creates a clean air chamber nearly 100%
-      free from dangerous particulates and corrosive dust contaminants.
+  - description: Suitable for production painting and paints over 2.8 lbs VOCs per gallon.
     heading: Vented Solution
-  - description: DuroCap™ vented filtration creates a clean air chamber nearly 100%
-      free from dangerous particulates and corrosive dust contaminants.
+  - description: Energy-efficient VFD with adjustable air speeds, doubles as a soft
+      starter to eliminate the need for a motor starter.
     heading: Variable Frequency Drive
-  - description: DuroCap™ vented filtration creates a clean air chamber nearly 100%
-      free from dangerous particulates and corrosive dust contaminants.
+  - description: Designed by Kidde Badger for protection of exhaust systems and the
+      enclosure, while meeting NFPA 17 standards and is UL listed. Wet or dry
+      systems are available depending upon requirements. Wet systems are for
+      non-retracting only.
     heading: Fire Suppression
 key_images:
   image_1: /media/uploads/dur-221408_fabtech_blog-img.jpg.jpg
