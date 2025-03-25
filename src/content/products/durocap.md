@@ -76,7 +76,7 @@ key_images:
   image_2: /media/uploads/DUR-201314-thumb.jpg
   image_3: /media/uploads/AZZ-enclosure-with-use-of-crane.jpg
   image_4: /media/uploads/airplane.jpg
-image_2: /media/uploads/image-29.png
+image_2: /media/uploads/durocap-2.png
 related_solutions:
   - Non-Destructive Testing
   - Painting & Coating
