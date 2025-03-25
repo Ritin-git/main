@@ -39,3 +39,27 @@ document.addEventListener("DOMContentLoaded", function () {
     //     activateItem(newIndex);
     // });
 });
+
+
+let scrollPosition = 0;
+
+function slideThumbnails(direction) {
+    const container = document.querySelector(".reason-slider-nav");
+    const wrapper = document.querySelector(".reason-slider-nav-wrapper");
+    const itemWidth = 90; // Approx width of each thumbnail including gap
+
+    // Determine the total scrollable width
+    const maxScroll = wrapper.scrollWidth - container.clientWidth;
+
+    if (direction === "right" && scrollPosition < maxScroll) {
+        scrollPosition += itemWidth * 3;
+    } else if (direction === "left" && scrollPosition > 0) {
+        scrollPosition -= itemWidth * 3;
+    }
+
+    // Prevent scrolling past max
+    if (scrollPosition > maxScroll) scrollPosition = maxScroll;
+    if (scrollPosition < 0) scrollPosition = 0;
+
+    wrapper.style.transform = `translateX(-${scrollPosition}px)`;
+}
