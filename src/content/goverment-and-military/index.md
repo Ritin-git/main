@@ -48,7 +48,7 @@ gm_intro:
 
 
     Plus, Duroair's flexible, modular, and retractable solutions are more affordable than designated paint rooms and work spaces and move with military maintenance workflows. They're a cost-effective way to facility material handling challenges associated with coating operations, surface prep, mechanical assembly, isolation rooms, NDT, dust collection, and ISO clean rooms.
-  intro_image: /media/uploads/coating.jpg
+  intro_image: /media/uploads/govt-page-abt-img.png
 flexibility:
   - heading: "Use DuroRoom Containment to:"
     description: >-
