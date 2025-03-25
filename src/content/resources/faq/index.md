@@ -10,6 +10,7 @@ nav_sort: 5000
 show_in_menu: "true"
 jumbotron:
   img: /media/uploads/group-3769.png
+intro_head: Frequently Asked Questions
 questions:
   - answer: >-
       Duroair’s patented [DuroPure™](/products/duropure) filtration technology
