@@ -74,7 +74,7 @@
                                 {%- for item in choose_duroair -%}
                                 <div class="reasonert-navfor-slider-inr-item {% if loop.first %}active{% endif %}" data-index="{{ loop.index }}">
                                     <div class="reasonert-navfor-slider-inr-item-img">
-                                        <img src="{{ item.image }}" alt="{{ item.heading_1 }}">
+                                        <img src="{{ item.image }}" alt="Image">
                                     </div>
                                 </div>
                                 {%- endfor -%}
@@ -82,31 +82,24 @@
                         </div>
 
                         <!-- Small Images (Navigation Thumbnails) -->
-                        <div class="reason-slider-nav-container">
-                            <button class="reason-nav-btn left" onclick="slideThumbnails('left')">‹</button>
-                            <div class="reason-slider-nav">
-                                <div class="reason-slider-nav-wrapper">
-                                    {%- for item in choose_duroair -%}
-                                    <div class="reason-slider-nav-item {% if loop.first %}active{% endif %}" data-index="{{ loop.index }}">
-                                        <div class="reason-slider-nav-item-img">
-                                            <img src="{{ item.image }}" alt="{{ item.heading_1 }} Thumbnail">
-                                        </div>
+                        <div class="reason-slider-nav">
+                            <div class="reason-slider-nav-wrapper">
+                                {%- for item in choose_duroair -%}
+                                <div class="reason-slider-nav-item {% if loop.first %}active{% endif %}" data-index="{{ loop.index }}">
+                                    <div class="reason-slider-nav-item-img">
+                                        <img src="{{ item.image }}" alt="Thumbnail">
                                     </div>
-                                    {%- endfor -%}
                                 </div>
+                                {%- endfor -%}
                             </div>
-                            <button class="reason-nav-btn right" onclick="slideThumbnails('right')">›</button>
                         </div>
-
                     </div>
                 </div>
-
             </div>
         </div>
     </div>
 </div>
 <!-- End Of Reasons Section -->
-
 
     <!-- Transmission Section Begin -->
 
