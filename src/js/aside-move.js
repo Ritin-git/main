@@ -1,9 +1,9 @@
-document.addEventListener("DOMContentLoaded", function () {
-    const blogContainer = document.querySelector(".blog");
-    const aside = document.querySelector(".aside");
-    const firstPost = document.querySelector(".card-horizontal.blog-post-item.post-1");
+$(document).ready(function(){
+    var $section = $(".section.blog-section");
+    var $aside = $("aside");
+    var $firstChild = $section.children().first(); // Get the first child
 
-    if (blogContainer && aside && firstPost) {
-        blogContainer.insertBefore(aside, firstPost.nextSibling);
+    if ($firstChild.length) {
+        $aside.insertAfter($firstChild); // Move <aside> to be the second child
     }
 });
