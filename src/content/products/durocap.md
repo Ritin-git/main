@@ -16,11 +16,19 @@ layout: product.njk
 product_image: /img/image-1-durocap.jpg
 product_intro:
   heading: Clean Shop Air for the Entire Floor
-  description: Welding toxic fumes and laser-cutting dust can threaten employee
-    safety, derail productivity, and place you directly in the crosshairs of the
-    EPA. Just a single spark can ignite welding “smoke” and endanger your entire
-    shop floor. Welding contaminants can also reduce the life of your cooling
-    fans and valuable CNC machinery.
+  description: >-
+    DuroCap™ is the vented, modular, air filtration system that’s easily
+    customizable for extracting dusts, fumes, and gasses, creating a clean-air
+    envelope around your oversized work pieces. Its 2-stage filtration removes
+    99.4% of all air pollutants for a contaminant free portable workstation
+    during sanding, grinding, [coating and
+    painting](https://www.duroair.com/solutions/painting-coating/).
+
+
+    Pair it with:
+
+
+    * [DuroRoom™](https://www.duroair.com/products/duroroom) to create a clean air envelope around workpieces for a contaminant free retractable work station.
 thumbnail: /img/thumbs/thumb-durocap.jpg
 short_description: DuroCap™ vented filtration creates a clean air chamber nearly
   100% free from dangerous particulates and corrosive dust contaminants.
