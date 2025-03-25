@@ -11,4 +11,3 @@ seo:
 ---
 ## Explore Our Video Library
 
-Lorem ipsum dolor sit amet consectetur. Orci malesuada mi et mi pellentesque tincidunt at mollis facilisis. Nisl eu blandit nunc parturient adipiscing commodo.
