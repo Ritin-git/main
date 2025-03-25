@@ -7,6 +7,7 @@
     <!-- @include-static ../partials/nav-fields.yml -->
     <!-- @include-static ../partials/jumbotron.yml -->
     - {label: Body, name: body, widget: markdown }
+    - { label: Intro Heading, name: intro_head, widget: string }
     - name: questions
       label: Questions
       widget: list
