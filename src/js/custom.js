@@ -186,17 +186,19 @@ document.addEventListener("DOMContentLoaded", function () {
             infinite: false,
             asNavFor: '.reason-slider-nav'
         });
-    };
+    }
+
     if ($('.reason-slider-nav').length > 0) {
         $('.reason-slider-nav').slick({
-            slidesToShow: 3,
+            slidesToShow: 3, // Show 3 thumbnails at a time
             slidesToScroll: 1,
             asNavFor: '.reasonert-navfor-slider',
-            dots: true,
-            centerMode: false,
-            arrows: false,
-            focusOnSelect: true,
-            infinite: false
+            dots: false, // Hide dots if not needed
+            centerMode: true, // Ensure selected item is centered
+            arrows: false, // No arrows
+            focusOnSelect: true, // Click on a thumbnail to switch
+            infinite: false,
+            variableWidth: false // Set to true if thumbnails have different widths
         });
     }
     if ($('.slnpr-tab-head-wrp ul').length > 0) {
