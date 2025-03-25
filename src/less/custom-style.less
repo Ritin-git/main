@@ -9337,3 +9337,47 @@ fieldset span {
 .transforming-solution-inr.advance-cl-inr::before {
     background: transparent;
 }
+
+/* Ensure thumbnails are in a row */
+.reason-slider-nav-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    width: 100%;
+}
+
+.reason-slider-nav {
+    overflow: hidden;
+    width: 280px; /* Adjust to fit 3 thumbnails */
+    display: flex;
+}
+
+.reason-slider-nav-wrapper {
+    display: flex;
+    transition: transform 0.3s ease-in-out;
+    gap: 10px;
+}
+
+.reason-slider-nav-item {
+    min-width: 80px;
+    cursor: pointer;
+}
+
+.reason-slider-nav-item img {
+    width: 100%;
+    display: block;
+}
+
+/* Navigation buttons */
+.reason-nav-btn {
+    background: #ddd;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.reason-nav-btn:hover {
+    background: #bbb;
+}
