@@ -83,7 +83,6 @@
 
                         <!-- Small Images (Navigation Thumbnails) -->
                         <div class="reason-slider-nav">
-                            <div class="reason-slider-nav-wrapper">
                                 {%- for item in choose_duroair -%}
                                 <div class="reason-slider-nav-item {% if loop.first %}active{% endif %}" data-index="{{ loop.index }}">
                                     <div class="reason-slider-nav-item-img">
@@ -91,7 +90,6 @@
                                     </div>
                                 </div>
                                 {%- endfor -%}
-                            </div>
                         </div>
                     </div>
                 </div>
