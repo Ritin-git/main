@@ -186,19 +186,17 @@ document.addEventListener("DOMContentLoaded", function () {
             infinite: false,
             asNavFor: '.reason-slider-nav'
         });
-    }
-
+    };
     if ($('.reason-slider-nav').length > 0) {
         $('.reason-slider-nav').slick({
-            slidesToShow: 3, // Show 3 thumbnails at a time
+            slidesToShow: 3,
             slidesToScroll: 1,
             asNavFor: '.reasonert-navfor-slider',
-            dots: false, // Hide dots if not needed
-            centerMode: true, // Ensure selected item is centered
-            arrows: false, // No arrows
-            focusOnSelect: true, // Click on a thumbnail to switch
-            infinite: false,
-            variableWidth: false // Set to true if thumbnails have different widths
+            dots: true,
+            centerMode: false,
+            arrows: false,
+            focusOnSelect: true,
+            infinite: false
         });
     }
     if ($('.slnpr-tab-head-wrp ul').length > 0) {
@@ -387,7 +385,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }, 100);
 
     $(".mro-need-right-content").hide();
-   
+    
     $(".mro-need-right-head .read-btn").on("click",function(){
         $(".mro-needs-card").removeClass("active");
         $(".mro-need-right-content").hide();
