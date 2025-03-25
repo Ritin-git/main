@@ -8,7 +8,7 @@ seo:
 jumbotron:
   img: /img/heros/hero-metalcutting.jpg
 nav_sort: 4000
-show_in_menu: "true"
+show_in_menu: "false"
 layout: solution.njk
 thumbnail: /img/thumbs/hero-metalcutting.jpg
 image_1: /img/image-1-metalcutting.jpg
