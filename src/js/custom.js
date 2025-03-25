@@ -386,7 +386,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     $(".mro-need-right-content").hide();
     $(".mro-need-right-content").eq(0).show();
-    $(".mro-need-right-content").eq(0).parent().parent().addClass("active");
+   
     $(".mro-need-right-head .read-btn").on("click",function(){
         $(".mro-needs-card").removeClass("active");
         $(".mro-need-right-content").hide();
