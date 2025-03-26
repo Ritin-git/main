@@ -25,11 +25,11 @@ short_description: Portable paint booths safeguard employees while reducing
   spraying and coating capital expenses.
 intro:
   intro_head: Painting & Coating Requires Flexibility for Clean Air Control
-  intro_desc: Flexibility is key to creating controlled, safe, and productive work
-    environments during painting and coating for maintenance, repair, and
-    operations (MRO). This is especially the case in high-mix/low-volume (HMLV)
-    manufacturing environments where constant changes in workflows make it
-    challenging to meet your indoor air quality requirements.
+  intro_desc: Whether your focus is aesthetics quality control or corrosion
+    protection, surface-prep dust can wreak havoc on your coating and painting
+    processes. Add the impact of conventional industrial spray booths on
+    intermittent applications and material handling, and you have a recipe for
+    the bottom-line blues.
 copy_block_list: >-
   
 
