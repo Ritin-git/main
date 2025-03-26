@@ -36,6 +36,8 @@ body2: >-
   Maybe painting and coating are only part of the services that your organization offers, so installing a standard paint booth might take up facility space needed for other equipment. If the physical footprint of a paint booth is a concern for you, a portable paint booth can remove this issue. When not in use, a [portable paint booth from Duroair](https://www.duroair.com/solutions/painting-coating) can retract to 20% of its full size, keeping you from committing to what might be wasted floor space when the room is not needed.
 
 
+
+
   ## **2. Portable Paint Booths Are Faster to Install**
 
 
@@ -46,6 +48,8 @@ body2: >-
 
 
   Downtime is never a good thing in manufacturing. Therefore, having equipment operational and on hand is usually time and cost efficient, as long as the amount of usage results in a positive ROI. When this is not the case, often outsourcing is the next best thing. However, portable paint booths can be up and running quickly, leading to reduced downtime during, and after, installation. Depending upon the size, most of Duroair’s portable paint booths are able to be constructed within several days to a week. This makes using them on an as-needed basis easier to navigate for smaller facilities or jobs.
+
+
 
 
   ## [](https://www.duroair.com/blog/5-reasons-why-a-portable-paint-booth-makes-sense)**3. Outsourcing Costs Are Reduced**
@@ -63,6 +67,8 @@ body2: >-
   By reducing your outsourcing needs, you are able to manage everything from timelines, to quality control — all of which benefit your customer satisfaction and bottom line. By [insourcing your surface prep and spray operations with a portable paint booth](https://www.duroair.com/resources/case-studies/military-base-eliminates-outsourcing-of-surface-prep-work-painting), you can more easily manage everything from timelines to quality control — all of which benefit your customer satisfaction and bottom line.
 
 
+
+
   ## [](https://www.duroair.com/blog/5-reasons-why-a-portable-paint-booth-makes-sense)**4. Portable Paint Booths Increase Growth Potential**
 
 
@@ -73,6 +79,8 @@ body2: >-
 
 
   Growing pains are a part of most successful businesses at one point or another. Finding the balance between investing in permanent equipment too quickly yet still being able to increase your output to match or increase demand can be difficult. Instead of cutting into your profit potential through outsourcing or turning down business, an investment in a less permanent solution could be the answer. One investment possibility is a [portable, collapsible paint booth](https://www.duroair.com/blog/collapsible-paint-booths-offer-solutions-for-many-situations/). The ability to size up or down to take on more projects without committing to a stationery paint booth gives you time to grow with less up-front risk.
+
+
 
 
   ## [](https://www.duroair.com/blog/5-reasons-why-a-portable-paint-booth-makes-sense)**5. Finishing Flexibility Helps Avoid Bottlenecks**
