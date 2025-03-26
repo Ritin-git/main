@@ -30,9 +30,7 @@ copy_block_list: >-
   Duroair’s additive manufacturing clean air solutions provide:
 
 
-  * Indoor environments so clean they exceed OSHA requirements, via our patented [Taper Draft Airflow Technology](https://www.duroair.com/products/taper-draft-airflow-technology/)
-
-  * Capacity for even large-scale 3D printing processes, when coupled with Duroair’s [modular enclosures](/products/duroroom) that can be custom-tailored for specific applications
+  * Capacity for even large-scale 3D printing processes, when coupled with Duroair’s [modular enclosures](https://durocontent.netlify.app/products/duroroom) that can be custom-tailored for specific applications
 
   * Flexibility for crane access thanks to each enclosure’s retractability, that won’t interfere with current ventilation infrastructure
 
