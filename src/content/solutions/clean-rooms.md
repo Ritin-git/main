@@ -16,60 +16,58 @@ image_3: /img/image-3-cleanrooms.png
 short_description: Duroair's modular clean rooms keep harmful elements out and
   clean air inside each workpiece station.
 intro:
-  intro_head: Modular Clean Room Design For Manufacturing Flexibility
+  intro_head: Controlled Clean Room Environments for Manufacturing Flexibility
   intro_desc: >-
     Ensuring quality control while balancing long-term construction with
     short-term cutting, welding, or surface prep and spraying tasks is an
-    ongoing logistical challenge. Navigating these cellular workflows is
-    critical
-    for [aerospace](https://www.duroair.com/industries/aerospace-aviation) OEMs, [ship
-    and boat manufacturers](https://www.duroair.com/industries/marine), and for
-    operations conducting prototyping and R&D.
+    ongoing logistical challenge. The flexibility to navigate these cellular
+    workflows is critical for
+    [aerospace](https://www.duroair.com/industries/aerospace-aviation?__hstc=76629258.1b2ecfab4fbe050f4a1cb645617a0a2c.1740598848936.1741114790276.1742828545660.3&__hssc=76629258.9.1742828545660&__hsfp=412717538)
+    OEMs, [ship and boat
+    manufacturers](https://www.duroair.com/industries/marine?__hstc=76629258.1b2ecfab4fbe050f4a1cb645617a0a2c.1740598848936.1741114790276.1742828545660.3&__hssc=76629258.9.1742828545660&__hsfp=412717538),
+    and for operations conducting prototyping and R&D.
 
 
-    How do you cost-effectively isolate manufacturing processes to keep damaging elements out and clean air around each workpiece?
+    How do you cost-effectively isolate manufacturing processes to keep damaging elements out and clean air around each workpiece? And how do you meet niche clean room specifications for compliance and safety while delivering the flexibility to solve these workflow challenges?
 copy_block_list: >-
-  [Benefits](https://www.duroair.com/blog/21-ways-a-retractable-clean-air-enclosure-solves-problems)
+  [Benefits](https://www.duroair.com/blog/21-ways-a-retractable-clean-air-enclosure-solves-problems?__hstc=76629258.1b2ecfab4fbe050f4a1cb645617a0a2c.1740598848936.1741114790276.1742828545660.3&__hssc=76629258.9.1742828545660&__hsfp=412717538)
   of Duroair’s custom portable clean room design includes:
 
 
-  * Increased workflow efficiency for stop-and-start R&D processes
-
   * Reduced material handling by not having to transport large workpieces to a dedicated clean air space
+
+  * Increased workflow efficiency for stop-and-start R&D processes
 
   * Eliminated need for expensive equipment and installation for air make-up
 
-  * Laminar or turbulent airflow as required
-
-  * Unsurpassed control of isolated work environments, including pressure (positive or negative), humidity, and temperature air flow patterns, and harmful dust particulates and gaseous contaminants
+  * Laminar or turbulent airflow as required *Unsurpassed control of isolated work environments, including pressure (positive or negative), humidity, and temperature air flow patterns, and harmful dust particulates and gaseous contaminants
 copy_block_1: >-
-  ### Bring Compliant Clean Air to On-Demand Work Spaces
+  ### Controlled, Clean-Air Work Spaces On-Demand Work Environments
 
 
-  Duroair’s retractable clean rooms create clean air environments wherever they are needed. We combine our [DuroRoom™](/products/duroroom)  retractable enclosure with our DuroClean™  engineered exhaust system into one flexible, cost-effective solution for portable clean rooms and isolation rooms.
+  Duroair’s retractable clean rooms protect your people, help you meet OSHA and life safety requirements, and provide the flexibility to add and change workflows. These flexible, controlled environments move wherever they are needed. For example, with these flexible clean rooms, you don’t have to stop assembly lines to move a workpiece for painting or coating.
 
 
-  Duroair modular clean rooms can be placed anywhere in a manufacturing facility without having to install supplementary ductwork — or pay for ongoing air make-up costs. Our portable, retractable enclosures with non-vented air filtration can be engineered for large or small self-contained work environments, wherever and whenever needed. 
+  How does this work? We combine a customized DuroRoom™ retractable enclosure with our DuroClean™ engineered exhaust system into one flexible, cost-effective solution for portable clean rooms and isolation rooms.
 
 
-  Whether isolating a manufacturing process from the larger work environment (negative pressure) or protecting a process from contamination (positive pressure), our [DuroRoom™](/products/duroroom) and engineered filtration systems help guarantee worker safety from toxic dust and fumes, while reducing operating expenses and increasing productivity.
+  Duroair modular clean rooms can be placed anywhere in a manufacturing facility without having to install supplementary ductwork — or pay for ongoing air make-up costs. Our portable, retractable enclosures with non-vented air filtration can be engineered for large or small self-contained work environments, wherever and whenever needed.
+
+
+  Whether isolating a manufacturing process from the larger work environment (negative pressure) or protecting a process from contamination (positive pressure), our DuroRoom™ and engineered filtration systems help guarantee worker safety from toxic dust and fumes, while reducing operating expenses and increasing productivity.
 copy_block_2: >-
   ### Technical Specifications
 
 
-  * Protection to ISO level 6 
+  * Protection to ISO level 6
 
   * HEPA filtration 99.97% capture rate
-
-  * Filtration capable of capturing hexavalent chromium superior to NESHAP 319
 
   * Positive or negative pressure as required
 
   * Temperature and humidity control
 
-  * Air quality monitor and magnehelic gauge to indicate when filters require changing
-
-  * NFPA 33 compliant motor and electrical systems work outside of the air stream
+  * For spray applications: NFPA 33 compliant motor and electrical systems work outside of the air stream
 
   * Air filtration ranging from 800 CFM to 80,000 CFM
 compliance:
