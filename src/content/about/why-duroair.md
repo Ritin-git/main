@@ -80,12 +80,12 @@ air_system:
 
     The third stage filter can be changed to accommodate Merv15, HEPA, NESHAP 319 standards, depending upon needs. This provides the <br> manufacturing flexibility to do different operations in the enclosure.
   air_stages:
-    - heading_4: Stages 1
+    - heading_4: Stage 1
       description_4: captures particulates to 10 microns in size.
     - description_4: captures particulates to 5 microns in size.
-      heading_4: Stages 2
+      heading_4: Stage 2
     - description_4: captures particulates to 1 micron in size.
-      heading_4: Stages 3
+      heading_4: Stage 3
     - heading_4: Stage 4
       description_4: Stage 4
     - heading_4: Stage 5
