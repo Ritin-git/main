@@ -21,22 +21,6 @@
       fields:
         - {label: Heading, name: heading, widget: string}
         - {label: Description, name: description, widget: markdown}
-    
-    - name: key_milestone
-      label: Key Milestone 
-      widget: object
-      fields:
-        - name: milestone_head
-          label: Milestone Stripe Heading
-          widget: list
-          fields:
-            - {label: Heading, name: main_head, widget: string} 
-        - name: milestone_achi
-          label: Year Achivement
-          widget: list
-          fields:    
-            - {label: Year, name: achi_year, widget: string}
-            - {label: Description, name: achi_description, widget: markdown}
 
     - name: our_experties
       label: Our Experties
@@ -56,3 +40,18 @@
         - {label: copy, name: copy, widget: markdown}
         - {label: URL, name: url, widget: string}
         - {label: "Image", name: "image", widget: "image"}
+    - name: key_milestone
+      label: Key Milestone 
+      widget: object
+      fields:
+        - name: milestone_head
+          label: Milestone Stripe Heading
+          widget: list
+          fields:
+            - {label: Heading, name: main_head, widget: string} 
+        - name: milestone_achi
+          label: Year Achivement
+          widget: list
+          fields:    
+            - {label: Year, name: achi_year, widget: string}
+            - {label: Description, name: achi_description, widget: markdown}
