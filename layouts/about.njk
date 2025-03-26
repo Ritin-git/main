@@ -57,30 +57,30 @@
 <!-- Milestonse Section begin -->
 
 <div class="milestones-sec">
-  <div class="container">
-      <div class="mlstn-inr">
-          <div class="sec-head">
-              <h2>Key Milestones</h2>
-          </div>
-          
-          <div class="timeline-container">
-              <div class="timeline">
-                {%- for item in key_milestone -%}
-                  <div class="segment"></div>
+    <div class="container-fluid">
+        <div class="mlstn-inr">
+            <div class="sec-head">
+                <h2>Key Milestones</h2>
+            </div>
+            
+            <div class="timeline-container">
+                <div class="timeline">
+                    {%- for item in key_milestone.milestone_stripe_head -%}
+                    <div class="segment">{{ item.heading }}</div>
+                    {%- endfor -%}
+                </div>
+                {%- for item in key_milestone.milestone_achi -%}
+                <div class="event">
+                    <div class="event-dtls">
+                        <h2>{{ item.year }}</h2>
+                        <p>{{ item.description | md }}</p>
+                    </div>
+                    <div class="dot"></div>
+                </div>
                 {%- endfor -%}
-              </div>
-              {%- for item in key_milestone -%}
-              <div class="event">
-                  <div class="event-dtls">
-                      <h2>{{ item.year }}</h2>
-                      {{ item.description | md }}
-                  </div>
-                  <div class="dot"></div>
-              </div>
-              {%- endfor -%}
-          </div>
-      </div>
-  </div>
+            </div>
+        </div>
+    </div>
 </div>
 
 <!-- End of Milestonse Section -->
