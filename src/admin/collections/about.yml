@@ -22,11 +22,20 @@
         - {label: Heading, name: heading, widget: string}
         - {label: Description, name: description, widget: markdown}
     - name: key_milestone
-      label: Key Milestone
-      widget: list
+      label: Key Milestone 
+      widget: object
       fields:
-        - {label: Year, name: year, widget: string}
-        - {label: Description, name: description, widget: markdown}
+        - name: milestone_stripe_head
+          label: Milestone Stripe Heading
+          widget: list
+          fields:
+            - {label: Heading, name: heading, widget: string}
+        - name: milestone_achi
+          label: Year Achivement
+          widget: list
+          fields:    
+            - {label: Year, name: year, widget: string}
+            - {label: Description, name: description, widget: markdown}
     - name: our_experties
       label: Our Experties
       widget: list
