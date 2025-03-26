@@ -19,7 +19,6 @@
       options:
        - {label: "Float left", value: "images-left"}
        - {label: "Float Right", value: "images-right"}
-    - {label: "Intro Heading", name: "intro_head", widget: "string"}
     - {label: "Body 1", name: "body1", widget: "markdown"}
     - {label: "Body 2", name: "body2", widget: "markdown"}
     - name: cta
