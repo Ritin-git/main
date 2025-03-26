@@ -5,7 +5,6 @@ seo:
     DuroRoom Hardwall clean room that’s both durable and reconfigurable for
     controlled environments.
   page_title: DuroRoom™ Hardwall
-  noindex: false
 jumbotron:
   headline: DuroRoom™ Hardwall
   img: /media/uploads/how-it-works-outside-clean-room.webp
