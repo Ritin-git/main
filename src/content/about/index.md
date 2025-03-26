@@ -27,9 +27,9 @@ about_intro:
 
     * Improve overall health and safety in lean manufacturing facilities.
 
-    * Engineer solutions to isolate, capture, and contain a wide variety of industrial processes.
+    * Engineer [solutions](/solutions) to isolate, capture, and contain a wide variety of industrial processes.
 
-    * Go beyond EHS compliance to maximize efficiency and productivity.
+    * Go [beyond EHS compliance](/about/beyond-compliance/) to maximize efficiency and productivity.
   heading: "Our Legacy: Transforming Air Quality for Over 13 Years"
   image_1: /media/uploads/dur_jan2021_blog_01-thumb.jpg
   image_2: /media/uploads/dur_jan2021_blog_01-img.jpg
@@ -55,40 +55,6 @@ a_nederman_company:
 
 
     Learn more at nedermangroup.com
-key_milestone:
-  milestone_head:
-    - main_head: The Early Days
-    - main_head: Niagara Falls. ON R and D Facility
-    - main_head: Niagara Falls. ON R and D Facility
-    - main_head: Hard wall Cleanroom Era begins
-    - main_head: Sustainment Plan for DoD Initiated
-    - main_head: Duroair sold to Nederman
-  milestone_achi:
-    - achi_year: "2012"
-      achi_description: NIF rebranded to Duroair
-    - achi_year: 2014 - 2016
-      achi_description: Duroair receives 1st U.S. military sale. - DuroCap™ 1st
-        Aerospace Cleanroom sale - DuroClean.
-    - achi_year: "2018"
-      achi_description: Move to Niagara Falls R and D facility. DuroDust™ is launched.
-    - achi_year: "2019"
-      achi_description: Hexavalent Chromium Study is completed. 1st order is received
-        for DuroPure™ hexavalent chromium mitigation solution.
-    - achi_year: "2019"
-      achi_description: SOFI booth 55'H x 40'W x 100"L order received from large
-        aerospcae customer.
-    - achi_year: "2019"
-      achi_description: 1st sale to US Army for hexavalent chromium mitigation.
-    - achi_year: "2020"
-      achi_description: 40'H x 55'W x 160'L retractable cleanroom order received-DuroClean™.
-    - achi_year: "2021"
-      achi_description: Order for elevated platform cleanroom received.
-    - achi_year: "2023"
-      achi_description: 1st hard walled system installed
-    - achi_year: "2024"
-      achi_description: Duroair receives NSNs from DLA
-    - achi_year: "2020"
-      achi_description: Duroair bought by Nederman, August 30, 2024
 our_experties:
   - heading: Innovating Purposeful Clean-Air Solutions
     image: /media/uploads/dur-221401-march-blog1-img.jpg
@@ -181,6 +147,40 @@ cards:
       needs.
     image: /media/uploads/group-3802.png
     url: /about/industry-associations
+key_milestone:
+  milestone_head:
+    - main_head: The Early Days
+    - main_head: Niagara Falls. ON R and D Facility
+    - main_head: Niagara Falls. ON R and D Facility
+    - main_head: Hard wall Cleanroom Era begins
+    - main_head: Sustainment Plan for DoD Initiated
+    - main_head: Duroair sold to Nederman
+  milestone_achi:
+    - achi_year: "2012"
+      achi_description: NIF rebranded to Duroair
+    - achi_year: 2014 - 2016
+      achi_description: Duroair receives 1st U.S. military sale. - DuroCap™ 1st
+        Aerospace Cleanroom sale - DuroClean.
+    - achi_year: "2018"
+      achi_description: Move to Niagara Falls R and D facility. DuroDust™ is launched.
+    - achi_year: "2019"
+      achi_description: Hexavalent Chromium Study is completed. 1st order is received
+        for DuroPure™ hexavalent chromium mitigation solution.
+    - achi_year: "2019"
+      achi_description: SOFI booth 55'H x 40'W x 100"L order received from large
+        aerospcae customer.
+    - achi_year: "2019"
+      achi_description: 1st sale to US Army for hexavalent chromium mitigation.
+    - achi_year: "2020"
+      achi_description: 40'H x 55'W x 160'L retractable cleanroom order received-DuroClean™.
+    - achi_year: "2021"
+      achi_description: Order for elevated platform cleanroom received.
+    - achi_year: "2023"
+      achi_description: 1st hard walled system installed
+    - achi_year: "2024"
+      achi_description: Duroair receives NSNs from DLA
+    - achi_year: "2020"
+      achi_description: Duroair bought by Nederman, August 30, 2024
 ---
 ### Making the Business Case<br>for Clean Air
 
