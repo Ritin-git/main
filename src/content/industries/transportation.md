@@ -7,9 +7,9 @@ seo:
 nav_sort: 2800
 show_in_menu: "true"
 jumbotron:
-  img: /img/heros/hero-transportation.jpg
+  img: /media/uploads/airplane.jpg
 layout: industry.njk
-thumbnail: /img/thumbs/hero-transportation.jpg
+thumbnail: /media/uploads/airplane.jpg
 image_1: /img/image-1-transportation.jpg
 image_2: /img/image-2-transportation.jpg
 image_3: /media/uploads/duropure-image-2.jpg
