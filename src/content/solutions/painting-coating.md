@@ -24,12 +24,12 @@ image_3: /img/image-3-paintingcoating.png
 short_description: Portable paint booths safeguard employees while reducing
   spraying and coating capital expenses.
 intro:
-  intro_head: Retractable, Compliant Fume Exhaust Systems for Painting & Coating
-  intro_desc: Whether your focus is aesthetics quality control or corrosion
-    protection, surface-prep dust can wreak havoc on your coating and painting
-    processes. Add the impact of conventional industrial spray booths on
-    intermittent applications and material handling, and you have a recipe for
-    the bottom-line blues.
+  intro_head: Painting & Coating Requires Flexibility for Clean Air Control
+  intro_desc: Flexibility is key to creating controlled, safe, and productive work
+    environments during painting and coating for maintenance, repair, and
+    operations (MRO). This is especially the case in high-mix/low-volume (HMLV)
+    manufacturing environments where constant changes in workflows make it
+    challenging to meet your indoor air quality requirements.
 copy_block_list: >-
   
 
@@ -48,7 +48,7 @@ copy_block_list: >-
 
   * Unmatched employee protection with [DuroPure’s™](/products/duropure) high-efficiency, six-stage filtration process that captures 100% of airborne particulates, gases, and vapors
 copy_block_1: >-
-  ### Bring Clean Air to Your Painting and Coating Operations
+  ## Duroair Products Applicable to your Solutions
 
 
   Duroair combines our [DuroRoom™](/products/duroroom), [DuroCap™](/products/durocap), and [DuroPure™](/products/duropure) technologies into one industrial air cleaning system to make sure you get your clean air requirements right every time.
