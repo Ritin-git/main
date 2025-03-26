@@ -55,9 +55,10 @@ testimonial:
     as reduced our operating cost while providing a safe environment for our
     employees.
 cta:
-  copy: Contact us today to discuss a compliant clean air solution that delivers
-    bottom-line results for aerospace and aviation manufacturing facilities.
-  headline: Make Clean Air a Competitive Advantage
+  copy: Contact us today to discuss how we can design a customized, clean air
+    solution to meet your compliance and safety requirements while solving your
+    workflow challenges.
+  headline: Clean Air, Clear Solutions. Let's Talk!
 ---
 ### Engineered Clean Air Solutions That Won’t Disrupt Your Lead Time
 
