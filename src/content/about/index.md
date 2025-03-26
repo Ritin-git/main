@@ -55,19 +55,7 @@ a_nederman_company:
 
 
     Learn more at nedermangroup.com
-key_milestone:
-  - year: "2018"
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  - year: "2019"
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  - year: "2020"
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  - year: "2021"
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
 our_experties:
   - heading: Innovating Purposeful Clean-Air Solutions
     image: /media/uploads/dur-221401-march-blog1-img.jpg
