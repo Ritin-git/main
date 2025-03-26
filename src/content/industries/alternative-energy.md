@@ -44,7 +44,7 @@ solutions_for_industry:
 cta:
   copy: Contact us today to discuss a flexible clean air solution that delivers
     bottom-line results in your alternative energy facility.
-  headline: Make Clean Air a Competitive Advantage
+  headline: Clean Air, Clear Solutions. Let's Talk!
 ---
 ### **Clean Air Technologies Engineered For Alternative Energy**
 
