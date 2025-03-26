@@ -21,28 +21,23 @@
       fields:
         - {label: Heading, name: heading, widget: string}
         - {label: Description, name: description, widget: markdown}
+    
     - name: key_milestone
-      label: Key Milestone
+      label: Key Milestone 
       widget: object
       fields:
-        - name: milestone_stripe_head
+        - name: milestone_head
           label: Milestone Stripe Heading
           widget: list
           fields:
-            - name: heading
-              label: Heading
-              widget: string
+            - {label: Heading, name: heading, widget: string} 
         - name: milestone_achi
-          label: Year Achievement
+          label: Year Achivement
           widget: list
           fields:    
-            - name: year
-              label: Year
-              widget: string
-            - name: description
-              label: Description
-              widget: markdown
-
+            - {label: Year, name: year, widget: string}
+            - {label: Description, name: description, widget: markdown}
+            
     - name: our_experties
       label: Our Experties
       widget: list
