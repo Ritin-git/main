@@ -48,7 +48,7 @@ copy_block_list: >-
 
   * Unmatched employee protection with [DuroPure’s™](/products/duropure) high-efficiency, six-stage filtration process that captures 100% of airborne particulates, gases, and vapors
 copy_block_1: >-
-  ## Duroair Products Applicable to your Solutions
+  ### Bring Clean Air to Your Painting and Coating Operations
 
 
   Duroair combines our [DuroRoom™](/products/duroroom), [DuroCap™](/products/durocap), and [DuroPure™](/products/duropure) technologies into one industrial air cleaning system to make sure you get your clean air requirements right every time.
