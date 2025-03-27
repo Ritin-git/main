@@ -1,34 +1,16 @@
 <div class="col-lg-12">
-                <div class="beyond-compliance-in">
-                    <!-- ITEM -->
-                    <div class="beyond-compliance-item-outer">
-                    <div class="beyond-compliance-item">
-                        <div class="beyond-compliance-item-icon">
-                        <img src="/img/bc-card-icon-1.png" alt="Image">
-                        </div>
-                        <p>Better equipped to cover your ISO clean room requirements NOT bases</p>
+    <div class="beyond-compliance-in">
+        {%- for b in blocks-%}
+            <!-- ITEM -->
+            <div class="beyond-compliance-item-outer">
+                <div class="beyond-compliance-item">
+                    <div class="beyond-compliance-item-icon">
+                        <object id="svg-{{loop.index}}" data-animate-svg="svg-{{loop.index}}" type="image/svg+xml" data="{{b.icon}}" alt="icon"></object>
                     </div>
-                    </div>
-                    <!-- ITEM -->
-                    <!-- ITEM -->
-                    <div class="beyond-compliance-item-outer">
-                    <div class="beyond-compliance-item">
-                        <div class="beyond-compliance-item-icon">
-                        <img src="/img/bc-card-icon-2.png" alt="Image">
-                        </div>
-                        <p>Better equipped to meet EPA, OSHA, NFPA, and NESHAP standards</p>
-                    </div>
-                    </div>
-                    <!-- ITEM -->
-                    <!-- ITEM -->
-                    <div class="beyond-compliance-item-outer">
-                    <div class="beyond-compliance-item">
-                        <div class="beyond-compliance-item-icon">
-                        <img src="/img/bc-card-icon-3.png" alt="Image">
-                        </div>
-                        <p>Better equipped to increase your operational efficiency and bottom line</p>
-                    </div>
-                    </div>
-                    <!-- ITEM -->
+                    <p>{{b.copy}}</p>
                 </div>
-                </div>
+            </div>
+            <!-- ITEM -->
+        {%- endfor -%}
+    </div>
+</div>
