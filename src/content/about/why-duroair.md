@@ -125,6 +125,13 @@ our_system:
           flexibility enables production needs to determine its use. Use as one
           large cell or as 2 or 3 smaller cells.
         image_6: /media/uploads/dur-201310-sep-blog-1-thumb.jpg
+      - description_10: Use one enclosure to prepare surfaces (composite repair,
+          sanding, bonding) and then apply coatings.
+        image_6: /media/uploads/products-intro.jpg
+      - description_10: Integrate a 3 in 1 enclosure into current work cells. The
+          flexibility enables production needs to determine its use. Use as one
+          large cell or as 2 or 3 smaller cells.
+        image_6: /media/uploads/dur-201310-sep-blog-1-img.jpg
   retracts:
     heading_11: Retracts in minutes
     description_11: When painting and/or prep work is completed, the enclosure can
