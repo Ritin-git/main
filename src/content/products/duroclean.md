@@ -103,6 +103,11 @@ new_key_features:
 
 
       <!--EndFragment-->
+key_images:
+  image_1: /media/uploads/1.jpg
+  image_2: /media/uploads/2-1-.jpg
+  image_3: /media/uploads/3.jpg
+  image_4: /media/uploads/DuroClean 1.jpeg
 key_features: >-
   * **Negative & Positive Pressure Capability**: Isolates hazardous processes or
   protects a process within a larger manufacturing facility for a safe,
