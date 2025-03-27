@@ -25,6 +25,7 @@ blocks:
   - icon: /img/icons/icon-basic_sheet_pen.svg
     copy: Follow up to ensure your solution is fully compliant and creating a
       cleaner, safer, more productive working environment
+
 title: How We Work
 nav_sort: 2000
 show_in_menu: "true"
