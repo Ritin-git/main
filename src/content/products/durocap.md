@@ -72,10 +72,10 @@ new_key_features:
       non-retracting only.
     heading: Fire Suppression
 key_images:
-  image_1: /media/uploads/dur-221408_fabtech_blog-img.jpg.jpg
-  image_2: /media/uploads/DUR-201314-thumb.jpg
-  image_3: /media/uploads/AZZ-enclosure-with-use-of-crane.jpg
-  image_4: /media/uploads/airplane.jpg
+  image_1: /media/uploads/duropure-thumbnail.jpg
+  image_2: /media/uploads/hero-durocap.jpg
+  image_3: /media/uploads/2.png
+  image_4: /media/uploads/3.jpg
 image_2: /media/uploads/durocap-2.png
 related_solutions:
   - Non-Destructive Testing
