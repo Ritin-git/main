@@ -32,6 +32,7 @@ seo:
   description: Duroair modular industrial air filtration solutions bring clean air
     to each rapid-moving defense manufacturing operation.
   page_title: Military & Defense Air Filtration Solutions
+nav_sort: 3000
 show_in_menu: "true"
 gm_intro:
   intro_head: "Serving All U.S. Military Branches: Army, Navy, Marines, Coast
@@ -49,6 +50,36 @@ gm_intro:
 
     Plus, Duroair's flexible, modular, and retractable solutions are more affordable than designated paint rooms and work spaces and move with military maintenance workflows. They're a cost-effective way to facility material handling challenges associated with coating operations, surface prep, mechanical assembly, isolation rooms, NDT, dust collection, and ISO clean rooms.
   intro_image: /media/uploads/govt-page-abt-img.png
+dod_section:
+  child_left_sec:
+    dod_left_head: Designed Around DOD Maintenance Requirements for Cost,
+      Operational Readiness, and Safety
+    dod_desc: Our modular, industrial air filtration systems bring clean air to each
+      rapid-moving, military manufacturing operation. For example, our
+      retractable DuroRoom™ combined with our DuroPure™ non-vented air
+      filtration easily moves with grinding, painting, or sanding assignments.
+      Each system can be engineered to accommodate large components for jets,
+      MRAPs, or submarines, creating a cost-effective alternative to
+      conventional systems.
+  child_center_sec:
+    dod_center_head: Ensure Service Member Health & Safety
+    description: >-
+      * Protection is tested, verified, and confirmed by the DCPH-A.
+
+      * Mitigate exposure to hexavalent chromium, isocyanates, heavy metals, and VOCs. Meets the HQDA mandate.
+
+      * Isolate toxic processes from other service members in a shared space.
+
+      * Systems meet CFM requirements. VFD allows for control of airflow. Airflow is 100 FPM. At these air speeds the requirement for less than 25% LEL is met.
+
+      * Each system is monitored to verify OSHA limits are maintained.
+
+      * OSHA, ACGIH, NFPA Compliant.
+  child_right_sec:
+    - dod_right_head: Reduce Maintenance Costs
+      btn: Read More
+    - dod_right_head: Increase Operational Readiness
+      btn: Read More
 flexibility:
   - heading: "Use DuroRoom Containment to:"
     description: >-
@@ -92,6 +123,15 @@ flexibility:
 
       * Each system is monitored.
     image: /media/uploads/duropure-filtration.png
+solution_section:
+  solution_haed: Specialized Solutions for Your MRO Needs
+  related_products:
+    - DuroRoom™
+    - DuroPure™
+    - DuroDeployable™
+    - DuroCap™
+    - DuroDust™
+    - DuroClean™
 top_10_section:
   sec_heading: TOP 10 Ways Duroair Supports Mission-Critical Readiness for Military Bases
   sec_description: Between manufacturing, MRO, and prototyping, you don’t have
@@ -158,10 +198,15 @@ top_10_section:
         use by the military. The system is plug and play and can be deployed
         where needed.
       child_head: Saves on Capital Expenses
+certificate_section:
+  cert_btn: Download Now
+  cert_head: Certifications
+  cert_desc: Duroair’s certified clean air solutions ensure compliance, safety,
+    and efficiency in industrial environments.
 cta:
   copy: Contact us today to discuss a clean air solution that works with on-demand
     workflows in military and defense manufacturing operations.
-  headline: Make Clean Air a Competitive Advantage
+  headline: Clean Air, Clear Solutions. Let's Talk!
 related_products:
   - DuroRoom™
   - DuroCap™
@@ -175,51 +220,6 @@ solutions_for_industry:
   - Clean Rooms
   - Dust Collection
   - Non-Destructive Testing
-nav_sort: 3000
-dod_section:
-  child_left_sec:
-    dod_left_head: Designed Around DOD Maintenance Requirements for Cost,
-      Operational Readiness, and Safety
-    dod_desc: Our modular, industrial air filtration systems bring clean air to each
-      rapid-moving, military manufacturing operation. For example, our
-      retractable DuroRoom™ combined with our DuroPure™ non-vented air
-      filtration easily moves with grinding, painting, or sanding assignments.
-      Each system can be engineered to accommodate large components for jets,
-      MRAPs, or submarines, creating a cost-effective alternative to
-      conventional systems.
-  child_center_sec:
-    dod_center_head: Ensure Service Member Health & Safety
-    description: >-
-      * Protection is tested, verified, and confirmed by the DCPH-A.
-
-      * Mitigate exposure to hexavalent chromium, isocyanates, heavy metals, and VOCs. Meets the HQDA mandate.
-
-      * Isolate toxic processes from other service members in a shared space.
-
-      * Systems meet CFM requirements. VFD allows for control of airflow. Airflow is 100 FPM. At these air speeds the requirement for less than 25% LEL is met.
-
-      * Each system is monitored to verify OSHA limits are maintained.
-
-      * OSHA, ACGIH, NFPA Compliant.
-  child_right_sec:
-    - dod_right_head: Reduce Maintenance Costs
-      btn: Read More
-    - dod_right_head: Increase Operational Readiness
-      btn: Read More
-solution_section:
-  solution_haed: Specialized Solutions for Your MRO Needs
-  related_products:
-    - DuroRoom™
-    - DuroPure™
-    - DuroDeployable™
-    - DuroCap™
-    - DuroDust™
-    - DuroClean™
-certificate_section:
-  cert_btn: Download Now
-  cert_head: Certifications
-  cert_desc: Duroair’s certified clean air solutions ensure compliance, safety,
-    and efficiency in industrial environments.
 testimonial:
   related_products:
     - DuroCap™
