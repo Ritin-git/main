@@ -43,7 +43,7 @@ solutions_for_industry:
 cta:
   copy: Contact us today to discuss a clean air solution that protects your
     one-piece-flows and eliminates man-hour waste.
-  headline: Make Clean Air a Competitive Advantage
+  headline: Clean Air, Clear Solutions. Let's Talk!
 ---
 ### Clean Air Systems for Lean Manufacturing
 

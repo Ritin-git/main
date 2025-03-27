@@ -46,7 +46,7 @@ cta:
     line.
   headline: Make Clean Air a Competitive Advantage
 ---
-### **Silica Dust Collection Systems Engineered For Clean Air**
+### Silica Dust Collection Systems Engineered For Clean Air
 
 Stone cutting is one of the messiest operations in manufacturing – and the most hazardous. When it comes to producing dust, stone cutting generates clouds of dust that is far from harmless. Most concrete, masonry, and stone contain sand that is made of quartz and creates crystalline silica when cut. The inhalation of silica particles can scar the lungs or even lead to silicosis.
 

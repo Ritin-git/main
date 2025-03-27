@@ -19,8 +19,7 @@ text_3: Modular multi-process clean rooms
 image_3: /media/uploads/airplane.jpg
 short_description: Deploy with existing manufacturing cells without disrupting lead time.
 secondary_copy: >-
-  ### Modular Industrial Air Filtration Solutions for Military and Defense
-  Manufacturing
+  ### Modular Aerospace Filtration Systems
 
 
   Ready to deploy when and where needed, Duroair modular enclosures and industrial air filtration for aerospace and aviation can be engineered to move with your cellular workflows. 
@@ -32,15 +31,15 @@ secondary_copy: >-
   Aerospace and aviation clean air solutions include:
 
 
-  * Hexavalent chromium containment and capture during sanding, coating, and painting operations
+  * **Hexavalent chromium containment** and capture during sanding, coating, and painting operations
 
-  * Negative and positive pressure anterooms to accompany cleanrooms and enclosures for painting and coating operations
+  * **Negative and positive pressure anterooms** to accompany cleanrooms and enclosures for painting and coating operations
 
-  * Modular multi-process clean rooms with precise temperature and humidity controls that can be easily moved between locations and stored when not in use
+  * **Modular multi-process clean rooms** with precise temperature and humidity controls that can be easily moved between locations and stored when not in use
 
-  * Dust collection systems to effectively capture all particulates
+  * **Dust collection systems** to effectively capture all particulates
 
-  * Oil mist containment and ambient air quality systems to capture oil mist particles before they settle on valuable machinery and electronics
+  * **Oil mist containment and ambient air quality systems** to capture oil mist particles before they settle on valuable machinery and electronics
 solutions_for_industry:
   - Clean Rooms
   - Painting & Coating
@@ -56,9 +55,10 @@ testimonial:
     as reduced our operating cost while providing a safe environment for our
     employees.
 cta:
-  copy: Contact us today to discuss a compliant clean air solution that delivers
-    bottom-line results for aerospace and aviation manufacturing facilities.
-  headline: Make Clean Air a Competitive Advantage
+  copy: Contact us today to discuss how we can design a customized, clean air
+    solution to meet your compliance and safety requirements while solving your
+    workflow challenges.
+  headline: Clean Air, Clear Solutions. Let's Talk!
 ---
 ### Engineered Clean Air Solutions That Won’t Disrupt Your Lead Time
 

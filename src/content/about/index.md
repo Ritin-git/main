@@ -27,9 +27,9 @@ about_intro:
 
     * Improve overall health and safety in lean manufacturing facilities.
 
-    * Engineer solutions to isolate, capture, and contain a wide variety of industrial processes.
+    * Engineer [solutions](/solutions) to isolate, capture, and contain a wide variety of industrial processes.
 
-    * Go beyond EHS compliance to maximize efficiency and productivity.
+    * Go [beyond EHS compliance](/about/beyond-compliance/) to maximize efficiency and productivity.
   heading: "Our Legacy: Transforming Air Quality for Over 13 Years"
   image_1: /media/uploads/dur_jan2021_blog_01-thumb.jpg
   image_2: /media/uploads/dur_jan2021_blog_01-img.jpg
@@ -54,41 +54,7 @@ a_nederman_company:
     With local expertise and global presence our mission is clear – we shape the future for clean air. 
 
 
-    Learn more at nedermangroup.com
-key_milestone:
-  milestone_head:
-    - main_head: The Early Days
-    - main_head: Niagara Falls. ON R and D Facility
-    - main_head: Niagara Falls. ON R and D Facility
-    - main_head: Hard wall Cleanroom Era begins
-    - main_head: Sustainment Plan for DoD Initiated
-    - main_head: Duroair sold to Nederman
-  milestone_achi:
-    - achi_year: "2012"
-      achi_description: NIF rebranded to Duroair
-    - achi_year: 2014 - 2016
-      achi_description: Duroair receives 1st U.S. military sale. - DuroCap™ 1st
-        Aerospace Cleanroom sale - DuroClean.
-    - achi_year: "2018"
-      achi_description: Move to Niagara Falls R and D facility. DuroDust™ is launched.
-    - achi_year: "2019"
-      achi_description: Hexavalent Chromium Study is completed. 1st order is received
-        for DuroPure™ hexavalent chromium mitigation solution.
-    - achi_year: "2019"
-      achi_description: SOFI booth 55'H x 40'W x 100"L order received from large
-        aerospcae customer.
-    - achi_year: "2019"
-      achi_description: 1st sale to US Army for hexavalent chromium mitigation.
-    - achi_year: "2020"
-      achi_description: 40'H x 55'W x 160'L retractable cleanroom order received-DuroClean™.
-    - achi_year: "2021"
-      achi_description: Order for elevated platform cleanroom received.
-    - achi_year: "2023"
-      achi_description: 1st hard walled system installed
-    - achi_year: "2024"
-      achi_description: Duroair receives NSNs from DLA
-    - achi_year: "2020"
-      achi_description: Duroair bought by Nederman, August 30, 2024
+    Learn more at [nedermangroup.com](https://nedermangroup.com/)
 our_experties:
   - heading: Innovating Purposeful Clean-Air Solutions
     image: /media/uploads/dur-221401-march-blog1-img.jpg
@@ -98,11 +64,11 @@ our_experties:
       clean-air competitive advantage.
 
 
-      * Hexavalent Chromium Protection: Through independent testing, Duroair has verified that our exhaust systems meet or exceed NESHAP 319 standards by capturing and containing hexavalent chromium - allowing clean air to be recirculated back into the manufacturing space or vented outside.
+      * **Hexavalent Chromium Protection:** Through independent testing, Duroair has verified that our exhaust systems meet or exceed NESHAP 319 standards by capturing and containing hexavalent chromium - allowing clean air to be recirculated back into the manufacturing space or vented outside.
 
-      * Dust Collection Innovation: Because your employees are your most valuable assets, Duroair has developed DuroDust™, a dust collection system that provides a properly vented, regulated work area that limits employees' exposure to respirable silica, metal dust, and other particulates.
+      * **Dust Collection Innovation:** Because your employees are your most valuable assets, Duroair has developed DuroDust™, a dust collection system that provides a properly vented, regulated work area that limits employees' exposure to respirable silica, metal dust, and other particulates.
 
-      * Space-Saving Hinge Design: Space efficiency is always a priority, so Duroair has created a new hinge design that does not impact the enclosure footprint and moves up in the vertical wall axis, while the building retracts to under 20 percent of its extended length.
+      * **Space-Saving Hinge Design:** Space efficiency is always a priority, so Duroair has created a new hinge design that does not impact the enclosure footprint and moves up in the vertical wall axis, while the building retracts to under 20 percent of its extended length.
   - heading: Creating Complex Containment Solutions
     description: >-
       Our customized, complex containment solutions are designed to isolate
@@ -110,11 +76,11 @@ our_experties:
       of MRO in the same indoor space.
 
 
-      * Fixed containment: Duroair engineers both fixed, softwall containment solutions, as well as hardwall clean-air solutions. For example, DuroRoom™ Hardwall is designed to accommodate wider spans (over 65 feet) for large assemblies. Its modular walls are easy to move and reconfigure as needed for sub-assemblies.
+      * **Fixed containment:** Duroair engineers both fixed, softwall containment solutions, as well as hardwall clean-air solutions. For example, DuroRoom™ Hardwall is designed to accommodate wider spans (over 65 feet) for large assemblies. Its modular walls are easy to move and reconfigure as needed for sub-assemblies.
 
-      * Portable containment: The DuroRoom™ softwall enclosure is also available as a portable containment solution. It retracts to 20% of its extended length to accommodate overhead cranes and to save space when not in use. This portability addresses workflow and footprint problems that cost time and money,
+      * **Portable containment:** The DuroRoom™ softwall enclosure is also available as a portable containment solution. It retracts to 20% of its extended length to accommodate overhead cranes and to save space when not in use. This portability addresses workflow and footprint problems that cost time and money,
 
-      * Plug and Play containment: Our DuroDeployable™ is the generator-ready paint booth for rapid, Plug and Play deployment. We developed it by combining the DuroRoom softwall, retractable enclosure and the DuroPure™ air filtration system for safe, compliant spray operations in garrison or while deployed.
+      * **Plug and Play containment:** Our DuroDeployable™ is the generator-ready paint booth for rapid, Plug and Play deployment. We developed it by combining the DuroRoom softwall, retractable enclosure and the DuroPure™ air filtration system for safe, compliant spray operations in garrison or while deployed.
     image: /media/uploads/dur-201314-november-1-img-2.jpg
   - heading: Clean-Air Flexibility for Material Handling
     description: >-
@@ -123,11 +89,11 @@ our_experties:
       challenges. Here are a couple of examples.
 
 
-      * Preventing damage during material handling: Rather than moving pieces into spray booths, prep areas, or clean rooms, Duroair customizes portable clean-air enclosures to isolate and move with each piece. This prevents costly damage that can happen from over-handling.
+      * **Preventing damage during material handling:** Rather than moving pieces into spray booths, prep areas, or clean rooms, Duroair customizes portable clean-air enclosures to isolate and move with each piece. This prevents costly damage that can happen from over-handling.
 
-      * Reducing equipment expenses: In some cases, a portable containment solution allows you to take clean air to each workpiece, which can eliminate the need for expensive overhead cranes or conveyors to move workpieces.
+      * **Reducing equipment expenses:** In some cases, a portable containment solution allows you to take clean air to each workpiece, which can eliminate the need for expensive overhead cranes or conveyors to move workpieces.
 
-      * Increasing facility/labor ROI: Time-consuming material handling can eat into your profits because it ties up facility floor space and labor. Duroair’s clean-air solutions can retract to store when not in use. This minimizes space and labor required for material handling, enabling you to take on additional, more profitable projects in-house.
+      * **Increasing facility/labor ROI:** Time-consuming material handling can eat into your profits because it ties up facility floor space and labor. Duroair’s clean-air solutions can retract to store when not in use. This minimizes space and labor required for material handling, enabling you to take on additional, more profitable projects in-house.
     image: /media/uploads/key-features-pushing-enclosure-into-sea-can.webp
   - heading: Patented Industrial Air Filtration Technology
     description: >-
@@ -137,11 +103,11 @@ our_experties:
       non-vented, six-stage filtration system. 
 
 
-      * DuroPure is the world’s first, indoor air filtration system\\*\\* that goes beyond OSHA compliance to capture 99+% of airborne particulates like hexavalent chromium, VOCs, and isocyanates, and recirculates clean air back into the workspace.
+      * **DuroPure** is the world’s first, indoor air filtration system\*\* that goes beyond OSHA compliance to capture 99+% of airborne particulates like hexavalent chromium, VOCs, and isocyanates, and recirculates clean air back into the workspace.
 
-      * This patented technology pairs with our DuroRoom containment systems to create a clean-air envelope around each workpiece, for a contaminant-free, portable workstation. It also pairs with our patented, Taper Draft Airflow technology that goes beyond traditional cross drafts by creating indoor environments that are so clean, they exceed OSHA compliance requirements.
+      * This patented technology pairs with our **DuroRoom** containment systems to create a clean-air envelope around each workpiece, for a contaminant-free, portable workstation. It also pairs with our patented, Taper Draft Airflow technology that goes beyond traditional cross drafts by creating indoor environments that are so clean, they exceed OSHA compliance requirements.
 
-      * DuroRoom meets/exceeds CFM requirements,\\*\\* from 13,500 CFM to 200,000 CFM and beyond, to achieve airflow over 100 FPM at the intake filter face and ensure airflow remains below code requirements of 25% of the LEL (lower explosion limit). It’s also been \\*\\*tested by the Defense Centers for Public Health – Aberdeen (DCPH-A) and verified by Army Engineers and Industrial Hygienists.
+      * **DuroRoom** meets/exceeds CFM requirements,\*\* from 13,500 CFM to 200,000 CFM and beyond, to achieve airflow over 100 FPM at the intake filter face and ensure airflow remains below code requirements of 25% of the LEL (lower explosion limit). It’s also been \*\*tested by the Defense Centers for Public Health – Aberdeen (DCPH-A) and verified by Army Engineers and Industrial Hygienists.
     image: /media/uploads/DUR-201314-thumb.jpg
 image_1: /img/image-1-about2.jpg
 copy_block_1: >-
@@ -181,6 +147,40 @@ cards:
       needs.
     image: /media/uploads/group-3802.png
     url: /about/industry-associations
+key_milestone:
+  milestone_head:
+    - main_head: The Early Days
+    - main_head: Niagara Falls. ON R and D Facility
+    - main_head: Niagara Falls. ON R and D Facility
+    - main_head: Hard wall Cleanroom Era begins
+    - main_head: Sustainment Plan for DoD Initiated
+    - main_head: Duroair sold to Nederman
+  milestone_achi:
+    - achi_year: "2012"
+      achi_description: NIF rebranded to Duroair
+    - achi_year: 2014 - 2016
+      achi_description: Duroair receives 1st U.S. military sale. - DuroCap™ 1st
+        Aerospace Cleanroom sale - DuroClean.
+    - achi_year: "2018"
+      achi_description: Move to Niagara Falls R and D facility. DuroDust™ is launched.
+    - achi_year: "2019"
+      achi_description: Hexavalent Chromium Study is completed. 1st order is received
+        for DuroPure™ hexavalent chromium mitigation solution.
+    - achi_year: "2019"
+      achi_description: SOFI booth 55'H x 40'W x 100"L order received from large
+        aerospcae customer.
+    - achi_year: "2019"
+      achi_description: 1st sale to US Army for hexavalent chromium mitigation.
+    - achi_year: "2020"
+      achi_description: 40'H x 55'W x 160'L retractable cleanroom order received-DuroClean™.
+    - achi_year: "2021"
+      achi_description: Order for elevated platform cleanroom received.
+    - achi_year: "2023"
+      achi_description: 1st hard walled system installed
+    - achi_year: "2024"
+      achi_description: Duroair receives NSNs from DLA
+    - achi_year: "2020"
+      achi_description: Duroair bought by Nederman, August 30, 2024
 ---
 ### Making the Business Case<br>for Clean Air
 

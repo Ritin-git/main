@@ -7,15 +7,15 @@ seo:
 nav_sort: 2800
 show_in_menu: "true"
 jumbotron:
-  img: /img/heros/hero-transportation.jpg
+  img: /media/uploads/airplane.jpg
 layout: industry.njk
-thumbnail: /img/thumbs/hero-transportation.jpg
+thumbnail: /media/uploads/airplane.jpg
 image_1: /img/image-1-transportation.jpg
 image_2: /img/image-2-transportation.jpg
 image_3: /media/uploads/duropure-image-2.jpg
 short_description: Speed up drying times while meeting your safety regulatory requirements.
 secondary_copy: >-
-  ### **Modular Fume Extraction Systems For Limited Space**
+  ### Modular Fume Extraction Systems For Limited Space
 
 
   Flexible enough for space-limited production cells and large enough to accommodate a transport trailer, bus, or rail car, Duroair’s modular industrial air filtration for transportation can be engineered to work with any shop floor configuration.
