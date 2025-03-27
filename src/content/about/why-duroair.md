@@ -28,38 +28,73 @@ choose_duroair:
       oversized workpieces.
     image: /media/uploads/dur-221401-march-blogthumb.jpg
   - heading_1: Save Money
-    description_1: DuroRoom enclosures retract to provide easy access to overhead
-      cranes. Say goodbye to costly moves and lengthy disruptions when moving
-      oversized workpieces.
+    description_1: >-
+      <!--StartFragment-->
+
+
+      No ductwork or air makeup is required with the DuroPure recirculating system. Treated air does not need to be vented, saving on heating, or cooling costs.
+
+
+      <!--EndFragment-->
     image: /media/uploads/dur-221401-march-blogthumb.jpg
   - heading_1: Save Time
-    description_1: DuroRoom enclosures retract to provide easy access to overhead
-      cranes. Say goodbye to costly moves and lengthy disruptions when moving
-      oversized workpieces.
+    description_1: >-
+      <!--StartFragment-->
+
+
+      Reduce bottlenecks. Retractable enclosures provide access to an overheard crane which means easier material handling.
+
+
+      <!--EndFragment-->
     image: /media/uploads/AZZ-enclosure-with-use-of-crane.jpg
   - heading_1: Increase Flexibility
-    description_1: DuroRoom enclosures retract to provide easy access to overhead
-      cranes. Say goodbye to costly moves and lengthy disruptions when moving
-      oversized workpieces.
+    description_1: >-
+      <!--StartFragment-->
+
+
+      Integrate a DuroRoom around large workpieces. Retractable enclosures provide access to overhead cranes.
+
+
+      <!--EndFragment-->
     image: /media/uploads/DUR_Feb2020_Blog-thumb.jpg
   - heading_1: Maximize Space
-    description_1: DuroRoom enclosures retract to provide easy access to overhead
-      cranes. Say goodbye to costly moves and lengthy disruptions when moving
-      oversized workpieces.
+    description_1: >-
+      <!--StartFragment-->
+
+
+      DuroRoom enclosures retract to 20% of their extended length. Keep space productive. Retract an enclosure when not in use to use for other purposes.
+
+
+      <!--EndFragment-->
     image: /media/uploads/coating.jpg
   - heading_1: Make the Work Day Easier
-    description_1: DuroRoom enclosures retract to provide easy access to overhead
-      cranes. Say goodbye to costly moves and lengthy disruptions when moving
-      oversized workpieces.
+    description_1: >-
+      <!--StartFragment-->
+
+
+      A DuroRoom enclosure can be opened and closed with two people in minutes. Once retracted the enclosure can be stored at a fraction of its functional space.
+
+
+      <!--EndFragment-->
     image: /media/uploads/case-study-detail-img-3.png
-  - description_1: DuroRoom enclosures retract to provide easy access to overhead
-      cranes. Say goodbye to costly moves and lengthy disruptions when moving
-      oversized workpieces.
+  - description_1: >-
+      <!--StartFragment-->
+
+
+      6 stages of air filtration meets and often exceeds your industry's clean air quality requirements.
+
+
+      <!--EndFragment-->
     heading_1: Stay Compliant
     image: /media/uploads/dur-201308-thumb.jpg
-  - description_1: DuroRoom enclosures retract to provide easy access to overhead
-      cranes. Say goodbye to costly moves and lengthy disruptions when moving
-      oversized workpieces.
+  - description_1: >-
+      <!--StartFragment-->
+
+
+      DuroRoom enclosures are flexible, and designed to contain processes where they are created in your plant workflow. With the right filtration, clean air is brought to the workpiece with no worry of complicated moves and risk of damage to large components.
+
+
+      <!--EndFragment-->
     heading_1: Bringing clean air to the workpiece
     image: /media/uploads/dur-201308-img.jpg
 efficient:
