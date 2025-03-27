@@ -30,12 +30,12 @@ copy_block_2: new
 image_3: /img/home-image-3.jpg
 
 blocks:
-  - icon: /img/icons/beyond/icon-basic_magnifier.svg
-    copy: Analyze your technical, space, and budgetary requirements
-  - icon: /img/icons/beyond/icon-basic_magnifier.svg
-    copy: Analyze your technical, space, and budgetary requirements
-  - icon: /img/icons/beyond/icon-basic_magnifier.svg
-    copy: Analyze your technical, space, and budgetary requirements    
+  - icon: /img/icons/beyond/icon-3.svg
+    copy: Better equipped to cover your ISO clean room requirements NOT bases
+  - icon: /img/icons/beyond/icon-2.svg
+    copy: Better equipped to meet EPA, OSHA, NFPA, and NESHAP standards
+  - icon: /img/icons/beyond/icon-1.svg
+    copy: Better equipped to increase your operational efficiency and bottom line    
 
 ---
 <h2 class="h3 block">Industries Walking the<br>Compliance Talk</h2>
