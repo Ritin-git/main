@@ -82,5 +82,4 @@
       fields:
         - {label: Code, name: code, widget: string}
         - {label: Description, name: description, widget: string}
-    
-    
+    <!-- @include-static ../partials/cta-callout.yml -->
