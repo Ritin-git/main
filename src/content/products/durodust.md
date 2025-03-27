@@ -131,6 +131,11 @@ new_key_features:
       <!--EndFragment-->
   - heading: Non vented returns air to the building
     description: no
+key_images:
+  image_1: /media/uploads/duro-dust-3-stone-cutting.jpg
+  image_2: /media/uploads/duro-dust-2.jpg
+  image_3: /media/uploads/duro-dust-1.jpg
+  image_4: /media/uploads/extra.jpg
 key_features: >-
   * **Negative pressure**: Pulls all particulate to the filtration system
 

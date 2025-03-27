@@ -26,6 +26,33 @@ short_description: Paired with Duroair retractable enclosures, DuroPure™ is a
   non-vented portable, industrial air purification solution that recirculates
   air without exhausting contaminants outside.
 image_1: /media/uploads/duropure-image-2.jpg
+techncal_specification:
+  technical_heading: Technical Specifications
+  technical_description: >-
+    <!--StartFragment-->
+
+
+    * Patented filtration is created using a unique configuration of panel, pocket dual pleat , V bank, UV and carbon filters.
+
+    * Built-in control panel and air regulation with no makeup air required.
+
+    * Air quality monitor and magnehelic gauge indicating when filters require changing.
+
+    * Available as 208/230/460V three phase.
+
+    * Variable frequency drive (VFD) to optimize and control airflow.
+
+    * Automatic shut off to spray gun if VOCs exceed acceptable regulation levels.
+
+    * Carbon filter housing section with induct air VOC oxidizer.
+
+    * Portable on casters.
+
+
+    For ISO classifications and other technical information, download our DuroPure fact sheet!
+
+
+    <!--EndFragment-->
 new_key_features:
   - heading: "Patented Six-Stage Filtration:"
     description: >-
@@ -116,55 +143,11 @@ new_key_features:
 
 
       <!--EndFragment-->
-image_2: /media/uploads/duropure-img1.jpg
-brochure: /media/uploads/Duroair DuroPure™ System W.pdf
-btn_label: DOWNLOAD FACT SHEET
-technical_specifications: >-
-  * Patented filtration is created using a unique configuration of panel, pocket
-  dual pleat , V bank, UV and carbon filters.
-
-  * Built-in control panel and air regulation with no makeup air required.
-
-  * Air quality monitor and magnehelic gauge indicating when filters require changing.
-
-  * Available as 208/230/460V three phase.
-
-  * Variable frequency drive (VFD) to optimize and control airflow.
-
-  * Automatic shut off to spray gun if VOCs exceed acceptable regulation levels.
-
-  * Carbon filter housing section with induct air VOC oxidizer.
-
-  * Portable on casters.
-youtube_url: https://www.youtube.com/watch?v=ppPuPa73nFk
-show_in_menu: "true"
-techncal_specification:
-  technical_heading: Technical Specifications
-  technical_description: >-
-    <!--StartFragment-->
-
-
-    * Patented filtration is created using a unique configuration of panel, pocket dual pleat , V bank, UV and carbon filters.
-
-    * Built-in control panel and air regulation with no makeup air required.
-
-    * Air quality monitor and magnehelic gauge indicating when filters require changing.
-
-    * Available as 208/230/460V three phase.
-
-    * Variable frequency drive (VFD) to optimize and control airflow.
-
-    * Automatic shut off to spray gun if VOCs exceed acceptable regulation levels.
-
-    * Carbon filter housing section with induct air VOC oxidizer.
-
-    * Portable on casters.
-
-
-    For ISO classifications and other technical information, download our DuroPure fact sheet!
-
-
-    <!--EndFragment-->
+key_images:
+  image_1: /media/uploads/duropure-image-2.jpg
+  image_2: /media/uploads/duropure-filtration.png
+  image_3: /media/uploads/duropure-thumbnail.jpg
+  image_4: /media/uploads/duropure-img1.jpg
 key_features: >-
   * **Patented Six-Stage Filtration**: Multi-stage particulate collection and
   multi-stage gas collection with carbon adsorption and UV PCO (photocatalytic
@@ -187,6 +170,7 @@ key_features: >-
   * **Fire Suppression**: Designed by Kidde Badger for protection of exhaust systems and the enclosure, meets NFPA 17 standards and UL listed
 
   * **Defense Centers for Public Health – Aberdeen (DCPH-A) tested and verified by Army Engineers and Industrial Hygienists**: The DuroPure system mitigates exposure to hexavalent chromium, isocyanates and VOCs, meeting HQDA’s mandate  
+image_2: /media/uploads/duropure-img1.jpg
 compliance:
   - code: NFPA 33
     description: spray application
@@ -210,6 +194,27 @@ compliance:
     description: spray finishing requirements - Electrical CSA Certified
   - code: OSHA silica
     description: standard for general industry
+brochure: /media/uploads/Duroair DuroPure™ System W.pdf
+btn_label: DOWNLOAD FACT SHEET
+technical_specifications: >-
+  * Patented filtration is created using a unique configuration of panel, pocket
+  dual pleat , V bank, UV and carbon filters.
+
+  * Built-in control panel and air regulation with no makeup air required.
+
+  * Air quality monitor and magnehelic gauge indicating when filters require changing.
+
+  * Available as 208/230/460V three phase.
+
+  * Variable frequency drive (VFD) to optimize and control airflow.
+
+  * Automatic shut off to spray gun if VOCs exceed acceptable regulation levels.
+
+  * Carbon filter housing section with induct air VOC oxidizer.
+
+  * Portable on casters.
+youtube_url: https://www.youtube.com/watch?v=ppPuPa73nFk
+show_in_menu: "true"
 nav_title: DuroPure
 ---
 ### How it Works
