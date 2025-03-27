@@ -55,3 +55,5 @@
         - {label: "Hide Data", name: "hide_data", widget: markdown, required: false}
     - { label: Brochure, name: brochure, widget: file, required: false, allow_multiple: false}
     - {label: "Download Button Label", name: "btn_label", widget: "string", default: "Download Brochure", required: false,}
+
+    <!-- @include-static ../partials/cta-callout.yml -->
