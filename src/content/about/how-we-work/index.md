@@ -6,7 +6,7 @@ seo:
     the evolving processes of a lean production system.
 jumbotron:
   img: /img/heros/hero-howwework.jpg
-heading: Always Engineered to Meet Your Production Goals
+heading: Always Innovating for Your Manufacturing Reality
 image_section:
   image_1: /media/uploads/hww-abt-img-1.png
   image_2: /media/uploads/hww-abt-img-2.png
@@ -29,13 +29,16 @@ title: How We Work
 nav_sort: 2000
 show_in_menu: "true"
 description: >-
-  Combining our innovative retractable enclosures with our advanced air
-  filtration systems, a Duroair solution is a true end-to-end air filtration
-  solution built to isolate, capture, and contain a wide variety of industrial
-  processes.
+  <!--StartFragment-->
 
 
-  Partnering with us means partnering with a solutions provider that is always responsive to the manufacturing reality of your lean production system. The result is a clean air solution that is [better for compliance](/about/beyond-compliance), better for overall employee health and safety, and better for your bottom line.
+  Duroair’s consultative approach to engineering clean air solutions is always responsive to your industry’s environmental, safety, and budgetary needs. We’re always looking for new industrial air filtration solutions to give our customers more workflow flexibility for isolating, capturing, and containing their specific industrial processes to reduce lead times and costs.
+
+
+  Partnering with us means partnering with a solutions provider that is always responsive to the manufacturing reality of your lean production system. The result is a clean air solution that is better for compliance, better for overall employee health and safety, and better for your bottom line.
+
+
+  <!--EndFragment-->
 image_1: /media/uploads/hww-abt-img-4.png
 image_2: /media/uploads/case-study-detail-img-1.png
 cta:
