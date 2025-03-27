@@ -30,6 +30,11 @@ short_description: A breakthrough in industrial dust collection, the modular and
   compact DuroCollector™ offers a powerful solution for compliant clean air,
   without sacrificing floor space.
 image_1: /img/image-2-durocollector.jpg
+key_images:
+  image_1: /media/uploads/dur2023_q3blogmitigate_400x208.87-cleanfacility.png
+  image_2: /media/uploads/dur_dec2020_blog_01-img.jpg
+  image_3: /media/uploads/dur-201314-november-2-thumb.jpg
+  image_4: /media/uploads/dur_dec2020_blog_02-img.jpg
 image_2: /img/image-3-durocollector.png
 g&m_related_data:
   show_data: DuroPure recirculating exhaust units are used for coating and surface
