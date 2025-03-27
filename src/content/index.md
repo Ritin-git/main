@@ -28,6 +28,15 @@ ban_desc: When you choose Duroair, you get a partner that is always responsive
 image_2: /media/uploads/left-bg.png
 copy_block_2: new
 image_3: /img/home-image-3.jpg
+
+blocks:
+  - icon: /img/icons/beyond/icon-basic_magnifier.svg
+    copy: Analyze your technical, space, and budgetary requirements
+  - icon: /img/icons/beyond/icon-basic_magnifier.svg
+    copy: Analyze your technical, space, and budgetary requirements
+  - icon: /img/icons/beyond/icon-basic_magnifier.svg
+    copy: Analyze your technical, space, and budgetary requirements    
+
 ---
 <h2 class="h3 block">Industries Walking the<br>Compliance Talk</h2>
 
