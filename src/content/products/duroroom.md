@@ -122,6 +122,11 @@ new_key_features:
 
 
       <!--EndFragment-->
+key_images:
+  image_1: /media/uploads/3-2-.jpg
+  image_2: /media/uploads/duroroom-thumbnail.jpg
+  image_3: /media/uploads/2-please-slightly-crop.jpg
+  image_4: /media/uploads/duroroom-containment-img.png
 key_features: >-
   * **[Taper Draft Airflow
   Technology](/products/taper-draft-airflow-technology/)**: Moves air through
