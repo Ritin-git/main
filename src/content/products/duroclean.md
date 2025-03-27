@@ -5,8 +5,104 @@ seo:
   ? page_title
 layout: product.njk
 product_image: /media/uploads/duro-clean-2.jpg
+product_intro:
+  heading: DuroClean™
+  description: >-
+    <!--StartFragment-->
+
+
+    The DuroClean™ exhaust system filters air to an ISO 6 standard to create [portable clean rooms](https://www.duroair.com/solutions/clean-rooms/) or isolation rooms for mechanical assembly, [additive manufacturing](https://www.duroair.com/solutions/additive-manufacturing/), R&D, and other processes requiring a clean environment. Combined with our DuroRoom retractable enclosure, the DuroClean engineered exhaust system becomes a flexible, cost-effective solution for on-demand clean rooms and isolation rooms wherever and whenever they are needed.
+
+
+    Pair it with:
+
+
+    * [DuroRoom™](https://www.duroair.com/products/duroroom)
+
+
+    <!--EndFragment-->
 thumbnail: /media/uploads/DuroClean 1.jpeg
+short_description: The DuroClean™ exhaust system filters air to an ISO 6
+  standard to create [portable clean
+  rooms](https://www.duroair.com/solutions/clean-rooms/) or isolation rooms for
+  mechanical assembly, [additive
+  manufacturing](https://www.duroair.com/solutions/additive-manufacturing/),
+  R&D, and other processes requiring a clean environment.
 image_1: /media/uploads/DuroClean 1.jpeg
+techncal_specification:
+  technical_heading: Technical Specifications
+  technical_description: >-
+    <!--StartFragment-->
+
+
+    * Fans designed with reverse, incline fan wheels and inlet cones. Non-sparking constructed with fan sizes from 18" to 35" with 5hp to 25hp motors dependent on airflow requirements. Airflow designed at 3.5" static pressure.
+
+    * Variable frequency drive (VF) gives complete control of airflow and doubles as a soft starter to eliminate the need for a motor starter.
+
+    * Control panel is a lockable fused disconnect and is a C/UL/US listed panel, with an on/off, speed dial control. Prewired. Options include a customized HMI interface. Customer supplies building power.
+
+    * Lighting options include C1D1, C1D2, LED lights and troffer lights, depending upon requirements.
+
+    * Fire suppression: Wet or dry is available depending upon requirements. Wet for non-retracting only.
+
+
+    For ISO classifications and other technical information, download our DuroClean fact sheet!
+
+
+    <!--EndFragment-->
+new_key_features:
+  - heading: "Negative & Positive Pressure Capability:"
+    description: >-
+      <!--StartFragment-->
+
+
+      Isolates hazardous processes or protects a process within a larger manufacturing facility for a safe, controlled environment.
+
+
+      <!--EndFragment-->
+  - heading: "Neutral Pressure Capability:"
+    description: |-
+      <!--StartFragment-->
+
+      for simple containment.
+
+      <!--EndFragment-->
+  - heading: "HEPA Filter Configurations:"
+    description: >-
+      <!--StartFragment-->
+
+
+      Options include single pass and recirculating designs, with options for cooling and heating and dehumidification.
+
+
+      <!--EndFragment-->
+  - heading: "Custom Filtration Options:"
+    description: >-
+      <!--StartFragment-->
+
+
+      include prefilter, gas phase media, and HEPA and ULPA filters available in 99.97 and 99.99% efficiencies with options for UV light.
+
+
+      <!--EndFragment-->
+  - heading: "Airflow Options:"
+    description: >-
+      <!--StartFragment-->
+
+
+      Laminar or unidirectional airflow systems, as well as turbulent or non-unidirectional airflow systems.
+
+
+      <!--EndFragment-->
+  - heading: "Air Changes Per Hour (ACH):"
+    description: >-
+      <!--StartFragment-->
+
+
+      Combines air changes per hour (ACH) with filtered air circulating into the cleanroom many times per hour (designed to meet ISO classifications).
+
+
+      <!--EndFragment-->
 key_features: >-
   * **Negative & Positive Pressure Capability**: Isolates hazardous processes or
   protects a process within a larger manufacturing facility for a safe,

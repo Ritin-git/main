@@ -9,6 +9,22 @@ jumbotron:
   img: /img/heros/hero-durocollector.jpg
 layout: product.njk
 product_image: /img/image-1-durocollector.jpg
+product_intro:
+  heading: An Industrial Breakthrough in Dust Collection
+  description: >-
+    <!--StartFragment-->
+
+
+    Duroair’s breakthrough in high-volume dust collection and OSHA-compliant air filtration comes in a powerful, compact solution for compliant clean air, without sacrificing floor space. Designed for reliable performance and easy maintenance, Duroair’s cartridge collectors provide cost-effective dust and fume collection.
+
+
+    For an innovative clean air solution, pair DuroCollector™ with:
+
+
+    * [DuroRoom™](https://www.duroair.com/products/duroroom)
+
+
+    <!--EndFragment-->
 thumbnail: /img/thumbs/thumb-durocollector.jpg
 short_description: A breakthrough in industrial dust collection, the modular and
   compact DuroCollector™ offers a powerful solution for compliant clean air,
@@ -57,6 +73,17 @@ copy_block_1: >-
 
   * Easy to clean, thanks to a more efficient vertical filter design for quick dust drawer collection, compared to cumbersome horizontal cartridge configurations
 show_in_menu: "true"
+techncal_specification:
+  technical_heading: Technical Specifications
+  technical_description: |-
+    <!--StartFragment-->
+
+    * 2000 – 80,000 CFM design range
+    * Cartridge collector can be upgraded to HEPA with optional after filter
+    * Self-clean with automatic blow off
+    * Manual clean available
+
+    <!--EndFragment-->
 key_features: no key features
 compliance:
   - code: OSHA
