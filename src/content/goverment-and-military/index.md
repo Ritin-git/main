@@ -22,7 +22,7 @@ secondary_copy: >-
 layout: goverment-and-military.njk
 jumbotron:
   img: /img/heros/hero-militarydefense.jpg
-main_head: Advanced, Affordable Clean-<br>Air Solutions for Military MRO
+main_head: Advanced, Affordable Clean-Air <br> Solutions for Military MRO
 permalink: government-and-military
 thumbnail: /img/thumbs/hero-militarydefense.jpg
 image_1: /img/image-1-militarydefense.jpg
