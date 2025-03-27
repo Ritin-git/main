@@ -10,6 +10,19 @@ jumbotron:
   headline: DuroDeployable™
   img: null
 layout: product.njk
+product_intro:
+  description: >-
+    <!--StartFragment-->
+
+
+    DuroDeployable™ is the rapid-deploy, portable paint booth for creating safe, controlled, compliant environments for military maintenance operations in garrison or while deployed. By combining the patented DuroRoom™ retractable enclosure and the DuroPure™ air filtration system, DuroDeployable mitigates exposure to hexavalent chromium, isocyanates, and VOCs for safe and compliant spray operations. It can be easily moved from garrison in 1-40’ High Cube MILVAN or 2-20’ High Cube MILVANS — anywhere a safe, compliant environment is required.
+
+
+    Designed around the Department of Defense’s (DoD) maintenance requirements, DuroDeployable helps increase operational readiness. With its plug-and-play, generator-ready construction, it can be fully operational within one hour with 3-4 service members.
+
+
+    <!--EndFragment-->
+  heading: DuroDeployable™
 short_description: DuroDeployable™ is the portable paint booth that creates a
   safe, controlled, compliant environment for painting and other military MRO in
   garrison or while deployed.
