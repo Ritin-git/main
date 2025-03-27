@@ -89,7 +89,7 @@ techncal_specification:
     * Manual clean available
 
     <!--EndFragment-->
-key_features: no key features
+key_features: no key feature
 compliance:
   - code: OSHA
     description: Exceeds OSHA requirement of 25 μg/m3
