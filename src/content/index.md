@@ -31,7 +31,7 @@ image_3: /img/home-image-3.jpg
 
 blocks:
   - icon: /img/icons/beyond/icon-3.svg
-    copy: Better equipped to cover your ISO clean room requirements NOT bases
+    copy: Better equipped to cover your ISO clean room requirements
   - icon: /img/icons/beyond/icon-2.svg
     copy: Better equipped to meet EPA, OSHA, NFPA, and NESHAP standards
   - icon: /img/icons/beyond/icon-1.svg
