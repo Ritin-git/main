@@ -27,6 +27,62 @@ short_description: DuroDeployable™ is the portable paint booth that creates a
   safe, controlled, compliant environment for painting and other military MRO in
   garrison or while deployed.
 image_1: /media/uploads/features-1-using-generator-durodeployable.webp
+new_key_features:
+  - heading: Cost Savings
+    description: >-
+      <!--StartFragment-->
+
+
+      * Eliminates the cost of building a new permanent paint booth or new infrastructure within a hangar or facility.
+
+      * Recirculates clean, filtered air into the workspace. No need to vent to the exterior, thereby reducing energy costs.
+
+      * Saves valuable footprint space, thanks to its small, retractable design.
+
+
+      <!--EndFragment-->
+  - heading: Reduces Lead Times From Install to Deployment
+    description: >-
+      <!--StartFragment-->
+
+
+      * DuroDeployable is a generator-ready paint booth for rapid plug and play.
+
+      * Each DuroDeployable comes with a 25' whip pre-installed, which reduces installation time. Customer electrician can add a plug to the end of the whip or remove if desired.
+
+
+      <!--EndFragment-->
+  - heading: Designed for Personnel and Process Safety
+    description: >-
+      <!--StartFragment-->
+
+
+      * For user safety, DuroDeployable includes a UL/ULC listed control panel and 1’’ air solenoid interlocked with a fan.
+
+      * Equipped with a VOC monitor to monitor air levels when leaving the exhaust. It is interlocked with spray air.
+
+        * If VOCs go over the Time Weighted Average Exposure limit (50ppm), the air to the spray gun will shut off but the fans will continue to run with the filters cleaning the air.
+      * Comes with a fused control panel to reduce exposure to electrical hazards.
+
+        * Electrician will only need to drop power to the panel.
+      * System is sized to maintain over the minimum 100 linear feet per minute at the intake filters, therefore keeping the conditions well below the 25% lower explosion limit.
+
+
+      <!--EndFragment-->
+  - heading: Meets Compliance and Air Quality Standards
+    description: >-
+      <!--StartFragment-->
+
+
+      * Meets compliance standards such as:
+
+        * NESHAP 319 – Testing protocol where chromate paint is mimicked. This test verifies an air filtration system meets minimum efficiency requirements.
+        * DCPH-A – (Defense Centers for Public Health – Aberdeen) tested and verified by U.S. Army Engineers and Industrial Hygienists.
+        * OSHA – VOC monitor ensures the VOC level does not rise above the allowable amount in an 8-hour time period (50ppm).
+      * DuroDeployable also exceeds many compliance standards, including containment of particulate levels for safeguarding personnel against hexavalent chromium.
+
+
+      <!--EndFragment-->
 key_features: >-
   **Cost Savings**
     * Eliminates the cost of building a new permanent paint booth or new infrastructure within a hangar or facility.
