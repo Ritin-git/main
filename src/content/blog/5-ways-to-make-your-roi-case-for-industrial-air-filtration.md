@@ -13,8 +13,7 @@ layout: blog-post.njk
 date: 2020-12-17
 image_alignment: images-left
 body1: >-
-  <!--StartFragment-->
-
+  
 
   [Military maintenance and repair operations (MRO)](https://www.duroair.com/industries/defense/) often require processes that can expose service members to airborne hazards. From coating propeller blades to prevent corrosion to sanding and painting MRAPs for redeployment, these processes release extremely toxic chemicals into the air, most notably hexavalent chromium, isocyanates and VOCs.
 
@@ -23,12 +22,8 @@ body1: >-
 
 
   Duroair engineers customized clean air booths, equipped with [DuroPure™ industrial air filtration](https://www.duroair.com/products/duropure/) together with a flexible [DuroRoom™ retractable enclosure](https://www.duroair.com/products/duroroom/). These multi-purpose booths can provide the same safety benefits of a permanent clean room, while saving time and expense.
-
-
-  <!--EndFragment-->
 body2: >-
-  <!--StartFragment-->
-
+  
 
   Here are five ways that a Duroair multi-purpose booth can help you more cost-effectively optimize MRO, while protecting your service members during essential maintenance and repair tasks.
 
@@ -87,9 +82,6 @@ body2: >-
   \
 
   Want to learn more about how Duroair multi-purpose booths can benefit your military maintenance, repair and operations? [Contact our industrial clean air experts today](https://www.duroair.com/request-for-quote/) for a free consultation.
-
-
-  <!--EndFragment-->
 cta:
   copy: Learn How Duroair Designs Flexible Solutions That Move With Your Workflow
   url: https://www.duroair.com/contact-us
