@@ -28,6 +28,16 @@ outro: >-
 
 
   See [solutions for your industry](/industries) to lean how Duroair can help you achieve EHS compliance and other clean air standards while improving your bottom line.
+
+blocks:
+  - icon: /img/icons/beyond/icon-3.svg
+    copy: Better equipped to cover your ISO clean room requirements NOT bases
+  - icon: /img/icons/beyond/icon-2.svg
+    copy: Better equipped to meet EPA, OSHA, NFPA, and NESHAP standards
+  - icon: /img/icons/beyond/icon-1.svg
+    copy: Better equipped to increase your operational efficiency and bottom line
+
+    
 image_1: /media/uploads/duroair-industrial-spray-roi.jpg
 image_2: /media/uploads/dur-201305-february-blog-img.jpg
 compliance:
