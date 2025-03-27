@@ -5,9 +5,9 @@ seo:
     processes, providing clean air for the workplace.
   page_title: Portable Paint Booths for Painting & Coating
 jumbotron:
-  img: /img/heros/hero-paintingcoating.jpg
+  img: /media/uploads/products-intro.jpg
 layout: solution.njk
-thumbnail: /img/thumbs/hero-paintingcoating.jpg
+thumbnail: /media/uploads/products-intro.jpg
 Intro:
   intr_head: " Retractable, Compliant Fume Exhaust Systems for Painting & Coating"
   intr_desc: Whether your focus is aesthetics quality control or corrosion
@@ -18,7 +18,7 @@ Intro:
 title: Painting & Coating
 nav_sort: 2000
 show_in_menu: "true"
-image_1: /img/image-1-paintingcoating.jpg
+image_1: /media/uploads/2.jpg
 image_2: /img/image-2-paintingcoating.jpg
 image_3: /img/image-3-paintingcoating.png
 short_description: Portable paint booths safeguard employees while reducing
